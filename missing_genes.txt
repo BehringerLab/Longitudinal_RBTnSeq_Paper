@@ -1,0 +1,823 @@
+locusId	sysName	type	scaffoldId	begin	end	strand	old_name	desc	GC	nTA	name
+14161	b0016	1	7023	15445	16557	+	insL-1	IS186/IS421 transposase (NCBI)	0.5193	33	insL1
+1936200	b4412	1	7023	16751	16903	-	hokC	toxic membrane protein, small (NCBI)	0.5294	3	hokC
+14166	b0021	1	7023	19811	20314	-	insB-1	IS1 transposase InsAB' (NCBI)	0.5456	16	insB1
+14167	b0022	1	7023	20233	20508	-	insA-1	IS1 repressor protein InsA (NCBI)	0.529	9	insA1
+14168	b0023	1	7023	20815	21078	-	rpsT	30S ribosomal protein S20 (NCBI)	0.4659	10	rpsT
+14169	b0024	1	7023	21181	21399	+	yaaY	hypothetical protein (NCBI)	0.4886	8	yaaY
+14170	b0025	1	7023	21407	22348	+	ribF	hypothetical protein (NCBI)	0.5361	31	ribF
+14171	b0026	1	7023	22391	25207	+	ileS	isoleucyl-tRNA synthetase (NCBI)	0.5577	64	ileS
+14172	b0027	1	7023	25207	25701	+	lspA	signal peptidase II (NCBI)	0.5354	20	lspA
+14174	b0029	1	7023	26277	27227	+	ispH	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (NCBI)	0.551	25	ispH
+14176	b0031	1	7023	28374	29195	+	dapB	dihydrodipicolinate reductase (NCBI)	0.5341	25	dapB
+14194	b0048	1	7023	49823	50302	+	folA	dihydrofolate reductase (NCBI)	0.5271	15	folA
+14195	b0049	1	7023	50380	51222	-	apaH	diadenosinetetraphosphatase (NCBI)	0.5575	26	apaH
+14199	b0053	1	7023	53416	54702	-	surA	peptidyl-prolyl cis-trans isomerase (PPIase) (NCBI)	0.5385	26	surA
+14200	b0054	1	7023	54755	57109	-	imp	organic solvent tolerance protein precursor (NCBI)	0.5138	106	lptD
+14208	b0062	1	7023	66835	68337	-	araA	L-arabinose isomerase (NCBI)	0.5549	32	araA
+14209	b0063	1	7023	68348	70048	-	araB	ribulokinase (NCBI)	0.5802	33	araB
+7497338	b4662	1	7023	77388	77519	+	sgrT	Inhibitor of glucose uptake (RefSeq)	0.4697	4	sgrT
+14229	b0083	1	7023	91032	91397	+	ftsL	membrane bound cell division protein at septum containing leucine zipper motif (NCBI)	0.5027	7	ftsL
+14230	b0084	1	7023	91413	93179	+	ftsI	transpeptidase involved in septal peptidoglycan synthesis (penicillin-binding protein 3) (NCBI)	0.5399	73	ftsI
+14231	b0085	1	7023	93166	94653	+	murE	UDP-N-acetylmuramoylalanyl-D-glutamate--2, 6-diaminopimelate ligase (NCBI)	0.5659	40	murE
+14232	b0086	1	7023	94650	96008	+	murF	UDP-N-acetylmuramoyl-tripeptide:D-alanyl-D- alanine ligase (NCBI)	0.5511	34	murF
+14233	b0087	1	7023	96002	97084	+	mraY	phospho-N-acetylmuramoyl-pentapeptide-transferase (NCBI)	0.5337	42	mraY
+14235	b0089	1	7023	98403	99647	+	ftsW	integral membrane protein involved in stabilizing FstZ ring during cell division (NCBI)	0.5301	48	ftsW
+14236	b0090	1	7023	99644	100711	+	murG	N-acetylglucosaminyl transferase (NCBI)	0.5609	35	murG
+14237	b0091	1	7023	100765	102240	+	murC	UDP-N-acetylmuramate--L-alanine ligase (NCBI)	0.5474	37	murC
+14239	b0093	1	7023	103155	103985	+	ftsQ	membrane anchored protein involved in growth of wall at septum (NCBI)	0.5331	25	ftsQ
+14240	b0094	1	7023	103982	105244	+	ftsA	cell division protein (NCBI)	0.521	41	ftsA
+14241	b0095	1	7023	105305	106456	+	ftsZ	cell division protein FtsZ (NCBI)	0.5417	33	ftsZ
+14242	b0096	1	7023	106557	107474	+	lpxC	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (NCBI)	0.5109	30	lpxC
+14244	b0098	1	7023	108279	110984	+	secA	translocase (NCBI)	0.524	81	secA
+14249	b0103	1	7023	112599	113219	-	coaE	dephospho-CoA kinase (NCBI)	0.5266	17	coaE
+14260	b0114	1	7023	123017	125680	+	aceE	pyruvate dehydrogenase subunit E1 (NCBI)	0.5304	86	aceE
+14261	b0115	1	7023	125695	127587	+	aceF	dihydrolipoamide acetyltransferase (NCBI)	0.5468	37	aceF
+14262	b0116	1	7023	127912	129336	+	lpd	dihydrolipoamide dehydrogenase (NCBI)	0.5305	39	lpd
+14264	b0118	1	7023	131615	134212	+	acnB	aconitate hydratase (NCBI)	0.5589	61	acnB
+14272	b0126	1	7023	142008	142670	-	can	carbonic anhydrase (NCBI)	0.5068	21	can
+14288	b0142	1	7023	157253	157732	-	folK	2-amino-4-hydroxy-6-hydroxymethyldihyropteridine pyrophosphokinase (NCBI)	0.5	14	folK
+14300	b0154	1	7023	173602	174882	-	hemL	glutamate-1-semialdehyde aminotransferase (NCBI)	0.555	40	hemL
+14302	b0156	1	7023	176610	176954	+	yadR	hypothetical protein (NCBI)	0.5072	10	erpA
+14305	b0159	1	7023	178455	179153	-	pfs	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase (NCBI)	0.5236	19	mtn
+14312	b0166	1	7023	185123	185947	-	dapD	2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase (NCBI)	0.5309	23	dapD
+14314	b0168	1	7023	188712	189506	-	map	methionine aminopeptidase (NCBI)	0.5044	30	map
+14316	b0170	1	7023	190857	191708	+	tsf	elongation factor Ts (NCBI)	0.4988	20	tsf
+14317	b0171	1	7023	191855	192580	+	pyrH	uridylate kinase (NCBI)	0.5275	20	pyrH
+14318	b0172	1	7023	192872	193429	+	frr	ribosome releasing factor (NCBI)	0.509	13	frr
+14319	b0173	1	7023	193521	194717	+	dxr	1-deoxy-D-xylulose 5-phosphate reductoisomerase (NCBI)	0.5263	36	dxr
+14320	b0174	1	7023	194903	195664	+	ispU	undecaprenyl pyrophosphate synthase (NCBI)	0.5	34	ispU
+14321	b0175	1	7023	195677	196534	+	cdsA	CDP-diglyceride synthetase (VIMSS)	0.5082	36	cdsA
+14322	b0176	1	7023	196546	197898	+	yaeL	zinc metallopeptidase (NCBI)	0.5092	51	rseP
+14323	b0177	1	7023	197928	200360	+	yaeT	hypothetical protein (NCBI)	0.5068	105	bamA
+14325	b0179	1	7023	200971	201996	+	lpxD	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (NCBI)	0.5283	36	lpxD
+14326	b0180	1	7023	202101	202556	+	fabZ	(3R)-hydroxymyristoyl ACP dehydratase (NCBI)	0.5044	11	fabZ
+14327	b0181	1	7023	202560	203348	+	lpxA	UDP-N-acetylglucosamine acyltransferase (NCBI)	0.5311	26	lpxA
+14328	b0182	1	7023	203348	204496	+	lpxB	lipid-A-disaccharide synthase (NCBI)	0.5379	29	lpxB
+14330	b0184	1	7023	205126	208608	+	dnaE	DNA polymerase III subunit alpha (NCBI)	0.5495	109	dnaE
+14331	b0185	1	7023	208621	209580	+	accA	acetyl-CoA carboxylase subunit alpha (NCBI)	0.5229	29	accA
+14334	b0188	1	7023	212331	213629	+	tilS	tRNA(Ile)-lysidine synthetase (NCBI)	0.5804	28	tilS
+14340	b0194	1	7023	217057	218775	-	proS	prolyl-tRNA synthetase (NCBI)	0.5451	46	proS
+14346	b0200	1	7023	222833	223408	+	gmhB	hypothetical protein (NCBI)	0.5017	25	gmhB
+1936227	b0201	3	7023	223771	225312	+	rrsH	16S ribosomal RNA (NCBI)	0.5435	54	rrsH
+1936228	b0202	5	7023	225381	225457	+	ileV	tRNA-Ile (NCBI)	0.5714	2	ileV
+1936229	b0203	5	7023	225500	225575	+	alaV	tRNA-Ala (NCBI)	0.6316	1	alaV
+1936230	b0204	2	7023	225759	228662	+	rrlH	23S ribosomal RNA (NCBI)	0.5324	118	rrlH
+1936231	b0205	4	7023	228756	228875	+	rrfH	5S ribosomal RNA (NCBI)	0.6417	4	rrfH
+1936232	b0206	5	7023	228928	229004	+	aspU	tRNA-Asp (NCBI)	0.6364	2	aspU
+14354	b0214	1	7023	235535	236002	-	rnhA	ribonuclease H (NCBI)	0.5043	15	rnhA
+14355	b0215	1	7023	236067	236798	+	dnaQ	DNA polymerase III subunit epsilon (NCBI)	0.5014	28	dnaQ
+3446138	b4586	1	7023	238257	238736	-	ykfM	hypothetical protein, no homologs (RefSeq)	0.3063	42	ykfM
+1936235	b4503	7	7023	239106	239378	+	yafF	NA	0.4725	13	yafF
+14371	b0232	1	7023	252005	252298	+	yafN	predicted antitoxin of the YafO-YafN toxin-antitoxin system (NCBI)	0.4218	17	yafN
+14373	b0234	1	7023	252709	253161	+	yafP	predicted acyltransferase with acyl-CoA N-acyltransferase domain (NCBI)	0.4327	18	yafP
+3446140	b4626	7	7023	262374	262436	-	ykfN	NA	0.3333	4	ykfN
+3446144	b4628	7	7023	266000	266191	-	ykfK	NA	0.5833	3	ykfK
+14394	b0256	1	7023	269827	270978	+	insI-1	CP4-6 prophage; IS30 transposase (NCBI)	0.4583	53	insI1
+7497339	b4690	6	7023	271804	271878	+	eyeA	Novel sRNA, function unknown, CP4-6 prophage (RefSeq)	0.56	1	eyeA
+14397	b0259	1	7023	273325	274341	-	insH-1	CP4-6 prophage; IS5 transposase and trans-activator (NCBI)	0.5467	13	insH1
+14402	b0264	1	7023	278402	278905	-	insB-2	CP4-6 prophage; IS1 transposase InsAB' (NCBI)	0.5516	16	insB2
+14403	b0265	1	7023	278824	279099	-	insA-2	CP4-6 prophage; IS1 repressor protein InsA (NCBI)	0.5326	8	insA2
+7497340	b4688	7	7023	289653	289857	+	ykgS	NA	0.4293	7	ykgS
+14412	b0274	1	7023	289873	290376	-	insB-3	CP4-6 prophage; IS1 transposase InsAB' (NCBI)	0.5516	16	insB3
+14413	b0275	1	7023	290295	290570	-	insA-3	CP4-6 prophage; IS1 repressor protein InsA (NCBI)	0.5326	8	insA3
+14417	b0279	1	7023	293169	294023	-	yagM	CP4-6 prophage; predicted protein (NCBI)	0.3626	53	yagM
+3446148	b4629	8	7023	296430	296478	+	ptwF	tRNA-OTHER (RefSeq)	0.5102	4	NA
+7497343	b4671	1	7023	312365	312466	-	ykgR	expressed protein (RefSeq)	0.2843	9	ykgR
+14436	b0298	1	7023	314515	314814	+	insE	IS3 element protein InsE (RefSeq)	0.5	7	insE1
+14437	b0299	1	7023	314811	315677	+	insF-1	IS3 element protein InsF (NCBI)	0.5513	29	insF1
+14441	b0303	1	7023	317555	317791	-	ykgI	orf, hypothetical protein (VIMSS)	0.3544	14	rclB
+14498	b0360	1	7023	380575	380940	+	insC	KpLE2 phage-like element; IS2 insertion element repressor InsA (RefSeq)	0.5301	9	insC1
+14499	b0361	1	7023	380898	381803	+	insD-1	IS2 insertion element transposase InsAB' (NCBI)	0.5508	25	insD1
+14507	b0369	1	7023	387977	388951	-	hemB	5-aminolevulinate dehydratase = porphobilinogen synthase (VIMSS)	0.5395	23	hemB
+14510	b0372	1	7023	390963	391829	-	insF-2	IS3 element protein InsF (NCBI)	0.5513	28	insF2
+14511	b0373	1	7023	391826	392125	-	insE	IS3 element protein InsE (RefSeq)	0.5	7	insE2
+14546	b0408	1	7023	426871	428718	+	secD	protein export protein SecD (NCBI)	0.5319	59	secD
+14547	b0409	1	7023	428729	429700	+	secF	protein export protein SecF (NCBI)	0.5165	40	secF
+14551	b0413	1	7023	432226	432675	+	ybaD	hypothetical protein (NCBI)	0.5133	12	nrdR
+14552	b0414	1	7023	432679	433782	+	ribD	fused diaminohydroxyphosphoribosylaminopyrimidine deaminase and 5-amino-6-(5-phosphoribosylamino) uracil reductase (NCBI)	0.5534	34	ribD
+14553	b0415	1	7023	433871	434341	+	ribE	riboflavin synthase subunit beta (NCBI)	0.5223	11	ribE
+14554	b0416	1	7023	434361	434780	+	nusB	transcription antitermination protein NusB (NCBI)	0.5381	17	nusB
+14555	b0417	1	7023	434858	435835	+	thiL	thiamine monophosphate kinase (NCBI)	0.544	30	thiL
+14558	b0420	1	7023	437539	439401	-	dxs	1-deoxy-D-xylulose-5-phosphate synthase (NCBI)	0.5427	47	dxs
+14559	b0421	1	7023	439426	440325	-	ispA	geranyltranstransferase (NCBI)	0.5422	28	ispA
+14560	b0422	1	7023	440325	440567	-	xseB	exodeoxyribonuclease VII small subunit (NCBI)	0.5514	4	xseB
+14577	b0439	1	7023	458112	460466	+	lon	DNA-binding ATP-dependent protease La (NCBI)	0.5231	64	lon
+1936286	b0455	6	7023	475672	475785	+	ffs	4.5S RNA (NCBI)	0.6404	3	ffs
+14603	b0466	1	7023	489334	489495	-	ybaM	hypothetical protein (NCBI)	0.4815	5	ybaM
+14607	b0470	1	7023	491316	493247	+	dnaX	DNA polymerase III subunits gamma and tau (NCBI)	0.5766	35	dnaX
+14611	b0474	1	7023	496399	497043	+	adk	adenylate kinase (NCBI)	0.5178	25	adk
+14612	b0475	1	7023	497279	498241	+	hemH	ferrochelatase (NCBI)	0.5389	30	hemH
+14635	b0498	1	7023	526805	527173	+	ybbC	hypothetical protein (NCBI)	0.30620000000000003	35	ybbC
+14637	b0500	7	7023	527864	528354	+	ybbD	hypothetical protein (RefSeq)	0.3279	39	NA
+14661	b0524	1	7023	552441	553163	-	lpxH	UDP-2,3-diacylglucosamine hydrolase (NCBI)	0.545	14	lpxH
+14662	b0525	1	7023	553166	553660	-	ppiB	peptidyl-prolyl cis-trans isomerase B (rotamase B) (NCBI)	0.4788	14	ppiB
+14663	b0526	1	7023	553834	555219	+	cysS	cysteinyl-tRNA synthetase (NCBI)	0.5447	32	cysS
+14665	b0528	1	7023	555884	556096	-	ybcJ	orf, hypothetical protein (VIMSS)	0.5493	0	ybcJ
+14666	b0529	1	7023	556098	556964	-	folD	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase (NCBI)	0.5433	23	folD
+1936299	b0536	5	7023	563946	564022	+	argU	tRNA-Arg (NCBI)	0.6104	2	argU
+14676	b0540	1	7023	566065	566364	+	insE	IS3 element protein InsE (RefSeq)	0.5	7	insE3
+14677	b0541	1	7023	566361	567227	+	insF-3	DLP12 prophage; IS3 element protein InsF (NCBI)	0.5513	29	insF3
+14680	b0544	1	7023	568125	569651	+	ybcK	DLP12 prophage; predicted recombinase (NCBI)	0.3556	96	ybcK
+14688	b0552	1	7023	573960	574976	-	insH-2	DLP12 prophage; IS5 transposase and trans-activator (NCBI)	0.5467	13	insH2
+1936303	b4510	1	7023	577550	577732	+	rzoD	DLP12 prophage; predicted lipoprotein (NCBI)	0.5683	2	rzoD
+14694	b0558	1	7023	578407	578817	-	ybcV	putative an envelop protein (VIMSS)	0.3163	35	ybcV
+3446163	b4635	8	7023	585280	585324	+	pauD	tRNA-OTHER (RefSeq)	0.6444	0	NA
+10279116	b4700	6	7023	606957	607015	+	sokE	sRNA at remnant mokE/hokE locus (RefSeq)	0.5254	2	b4700
+14718	b0582	1	7023	607288	608400	+	insL-2	IS186/IS421 transposase (NCBI)	0.5193	33	insL2
+1936309	b4512	1	7023	631405	631602	+	ybdD	hypothetical protein (NCBI)	0.5202	9	ybdD
+14740	b0603	1	7023	635939	636841	-	ybdO	predicted DNA-binding transcriptional regulator (NCBI)	0.3865	53	citR
+14751	b0614	1	7023	646707	647258	-	citX	2'-(5'-triphosphoribosyl)-3'-dephospho-CoA:apo- citrate lyase (NCBI)	0.5833	8	citX
+14765	b0628	1	7023	658474	659439	-	lipA	lipoyl synthase (NCBI)	0.5342	26	lipA
+14767	b0630	1	7023	660860	661501	-	lipB	protein of lipoate biosynthesis (VIMSS)	0.4766	29	lipB
+14768	b0631	1	7023	661602	661865	-	ybeD	hypothetical protein (NCBI)	0.4621	14	ybeD
+14771	b0634	1	7023	664424	665536	-	mrdB	cell wall shape-determining protein (NCBI)	0.5202	43	mrdB
+14772	b0635	1	7023	665539	667440	-	mrdA	transpeptidase involved in peptidoglycan synthesis (penicillin-binding protein 2) (NCBI)	0.5252	84	mrdA
+14774	b0637	1	7023	667942	668259	-	ybeB	orf, hypothetical protein (VIMSS)	0.5126	6	rsfS
+14776	b0639	1	7023	669154	669795	-	nadD	nicotinic acid mononucleotide adenyltransferase (NCBI)	0.5	18	nadD
+14777	b0640	1	7023	669797	670828	-	holA	DNA polymerase III subunit delta (NCBI)	0.5233	27	holA
+14779	b0642	1	7023	671424	674006	-	leuS	leucyl-tRNA synthetase (NCBI)	0.5335	88	leuS
+14793	b0656	1	7023	687220	688236	-	insH-3	IS5 transposase and trans-activator (NCBI)	0.5467	13	insH3
+14794	b0657	1	7023	688566	690104	-	lnt	apolipoprotein N-acyltransferase (NCBI)	0.5569	53	lnt
+14795	b0658	1	7023	690129	691007	-	ybeX	predicteed ion transport (NCBI)	0.5154	19	ybeX
+14796	b0659	1	7023	691097	691564	-	ybeY	hypothetical protein (NCBI)	0.5171	11	ybeY
+14799	b0662	1	7023	694324	695499	+	ubiF	2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase (NCBI)	0.5714	33	ubiF
+1936319	b0664	5	7023	695653	695727	-	glnX	tRNA-Gln (NCBI)	0.5867	2	glnX
+1936321	b0666	5	7023	695887	695963	-	metU	tRNA-Met (NCBI)	0.5195	3	metU
+1936322	b0668	5	7023	695979	696053	-	glnW	tRNA-Gln (NCBI)	0.5733	3	glnW
+1936323	b0670	5	7023	696088	696162	-	glnU	tRNA-Gln (NCBI)	0.5733	3	glnU
+1936324	b0672	5	7023	696186	696270	-	leuW	tRNA-Leu (NCBI)	0.6	2	leuW
+1936325	b0673	5	7023	696280	696356	-	metT	tRNA-Met (NCBI)	0.5195	3	metT
+14810	b0680	1	7023	705316	706980	+	glnS	glutaminyl-tRNA synthetase (NCBI)	0.5249	57	glnS
+14813	b0683	1	7023	709423	709869	-	fur	ferric uptake regulator (NCBI)	0.4787	16	fur
+3446164	b4637	1	7023	709862	709948	-	uof	ryhB-regulated fur leader peptide (RefSeq)	0.4023	4	uof
+14814	b0684	1	7023	710158	710688	-	fldA	flavodoxin 1 (NCBI)	0.4896	9	fldA
+14817	b0687	1	7023	712210	712755	+	seqA	regulatory protein for replication initiation (NCBI)	0.4963	15	seqA
+14818	b0688	1	7023	712781	714421	+	pgm	phosphoglucomutase (NCBI)	0.5527	39	pgm
+14832	b0699	1	7023	728357	728563	+	ybfA	hypothetical protein (NCBI)	0.5024	7	ybfA
+14834	b0702	1	7023	732999	733325	+	ybfB	predicted inner membrane protein (NCBI)	0.3119	33	ybfB
+14836	b0704	1	7023	734873	735442	+	ybfC	hypothetical protein (NCBI)	0.3667	33	ybfC
+1936330	b4514	7	7023	735668	735907	+	ybfQ	NA	0.3792	13	ybfQ
+14837	b0705	7	7023	736048	737184	+	ybfL	putative receptor protein (VIMSS)	0.4125	44	ybfL
+14862	b0730	1	7023	764376	765098	-	mngR	DNA-binding transcriptional dual regulator, fatty-acyl-binding (NCBI)	0.4813	21	mngR
+14865	b0733	1	7023	770681	772249	+	cydA	cytochrome d terminal oxidase, polypeptide subunit I (VIMSS)	0.529	44	cydA
+14866	b0734	1	7023	772265	773404	+	cydB	cytochrome d terminal oxidase, subunit II (NCBI)	0.5386	36	cydB
+14869	b0737	1	7023	774376	775068	+	tolQ	membrane spanning protein in TolA-TolQ-TolR complex (NCBI)	0.5051	24	tolQ
+14870	b0738	1	7023	775072	775500	+	tolR	membrane spanning protein in TolA-TolQ-TolR complex (NCBI)	0.5175	14	tolR
+14871	b0739	1	7023	775565	776830	+	tolA	cell envelope integrity inner membrane protein TolA (NCBI)	0.5229	27	tolA
+14872	b0740	1	7023	776963	778255	+	tolB	translocation protein TolB precursor (NCBI)	0.5313	45	tolB
+1936337	b0743	5	7023	779777	779852	+	lysT	tRNA-Lys (NCBI)	0.5	2	lysT
+1936338	b0744	5	7023	779988	780063	+	valT	tRNA-Val (NCBI)	0.6184	1	valT
+1936339	b0745	5	7023	780066	780141	+	lysW	tRNA-Lys (NCBI)	0.5	2	lysW
+1936341	b0747	5	7023	780370	780445	+	lysY	tRNA-Lys (NCBI)	0.5	2	lysY
+1936342	b0748	5	7023	780592	780667	+	lysZ	tRNA-Lys (NCBI)	0.5	2	lysZ
+1936343	b0749	5	7023	780800	780875	+	lysQ	tRNA-Lys (NCBI)	0.5	2	lysQ
+14887	b0762	1	7023	793996	794145	+	ybhT	hypothetical protein (NCBI)	0.4133	6	acrZ
+14941	b0816	1	7023	851894	852163	+	yliL	hypothetical protein (NCBI)	0.5074	9	yliL
+1936357	b4417	6	7023	887199	887277	-	rybB	unknown RNA (NCBI)	0.4557	0	rybB
+1936364	b0883	5	7023	925107	925194	-	serW	tRNA-Ser (NCBI)	0.6136	3	serW
+15008	b0884	1	7023	925448	925666	-	infA	translation initiation factor IF-1 (NCBI)	0.484	9	infA
+15010	b0886	1	7023	926697	928418	-	cydC	fused cysteine transporter subunits of ABC superfamily: membrane component/ATP-binding component (NCBI)	0.5377	50	cydC
+15011	b0887	1	7023	928419	930185	-	cydD	fused cysteine transporter subunits of ABC superfamily: membrane component/ATP-binding component (NCBI)	0.5365	56	cydD
+15014	b0890	1	7023	932447	936436	+	ftsK	DNA-binding membrane protein required for chromosome resolution and partitioning (NCBI)	0.5401	126	ftsK
+15015	b0891	1	7023	936595	937206	+	lolA	chaperone for lipoproteins (RefSeq)	0.5098	16	lolA
+15017	b0893	1	7023	938651	939943	+	serS	seryl-tRNA synthetase (NCBI)	0.5267	33	serS
+15034	b0910	1	7023	960424	961107	+	cmk	cytidylate kinase (NCBI)	0.5365	16	cmk
+15035	b0911	1	7023	961218	962891	+	rpsA	30S ribosomal protein S1 (NCBI)	0.5119	47	rpsA
+15038	b0914	1	7023	965844	967592	+	msbA	fused lipid transporter subunits of ABC superfamily: membrane component/ATP-binding component (NCBI)	0.5089	52	msbA
+15039	b0915	1	7023	967589	968575	+	lpxK	tetraacyldisaccharide 4'-kinase (NCBI)	0.5471	28	lpxK
+15041	b0917	1	7023	969896	970078	+	ycaR	hypothetical protein (NCBI)	0.4809	3	ycaR
+15042	b0918	1	7023	970075	970821	+	kdsB	3-deoxy-manno-octulosonate cytidylyltransferase (NCBI)	0.5274	17	kdsB
+15046	b0922	1	7023	973542	974864	+	mukF	condesin subunit F (NCBI)	0.5283	36	mukF
+15047	b0923	1	7023	974845	975549	+	mukE	protein involved in chromosome partitioning (RefSeq)	0.5163	18	mukE
+15048	b0924	1	7023	975549	980009	+	mukB	cell division protein MukB (NCBI)	0.5566	94	mukB
+15054	b0930	1	7023	986808	988208	-	asnS	asparaginyl-tRNA synthetase (NCBI)	0.5239	41	asnS
+15078	b0954	1	7023	1015175	1015693	-	fabA	3-hydroxydecanoyl-ACP dehydratase (NCBI)	0.5318	16	fabA
+15080	b0956	1	7023	1017708	1018160	+	ycbG	hypothetical protein (NCBI)	0.4614	13	matP
+15093	b0969	1	7023	1029562	1029891	-	yccK	putative sulfite reductase (EC 1.8.-.-) (VIMSS)	0.4667	12	tusE
+1936382	b0971	5	7023	1030848	1030935	-	serT	tRNA-Ser (NCBI)	0.6023	0	serT
+1936385	b4516	1	7023	1049056	1049331	+	insA-4	IS1 repressor protein InsA (NCBI)	0.529	8	insA4
+15112	b0988	1	7023	1049250	1049753	+	insB-4	IS1 transposase InsAB' (NCBI)	0.5476	17	insB4
+15114	b0990	1	7023	1050684	1050896	+	cspG	DNA-binding transcriptional regulator (NCBI)	0.4413	6	cspG
+1936386	b4517	1	7023	1051290	1051463	+	gnsA	predicted regulator of phosphatidylethanolamine synthesis (NCBI)	0.3966	3	gnsA
+15125	b1001	1	7023	1063259	1064515	+	yccE	hypothetical protein (NCBI)	0.3413	89	yccE
+15127	b1003	1	7023	1066087	1066314	-	yccJ	hypothetical protein (NCBI)	0.4693	7	yccJ
+15129	b4518	1	7023	1067304	1067477	+	ycdF	orf, hypothetical protein (VIMSS)	0.5115	4	ymdF
+15148	b1025	1	7023	1092099	1093457	+	ycdT	predicted diguanylate cyclase (NCBI)	0.3856	87	dgcT
+15149	b1026	1	7023	1093498	1094364	-	insF-4	IS3 element protein InsF (NCBI)	0.5513	28	insF4
+15150	b1027	1	7023	1094361	1094660	-	insE	IS3 element protein InsE (RefSeq)	0.5	7	insE4
+1936397	b1032	5	7023	1096788	1096875	-	serX	tRNA-Ser (NCBI)	0.6136	3	serX
+15162	b1040	1	7023	1101769	1102419	-	csgD	DNA-binding transcriptional activator in two-component regulatory system (NCBI)	0.4178	38	csgD
+15172	b1050	1	7023	1112802	1113029	+	yceK	predicted lipoprotein (NCBI)	0.5044	9	yceK
+15173	b1051	1	7023	1113030	1113404	-	msyB	acidic protein suppresses mutants lacking function of protein export (VIMSS)	0.5013	10	msyB
+15176	b1054	1	7023	1114885	1115805	-	lpxL	lipid A biosynthesis lauroyl acyltransferase (NCBI)	0.5299	22	lpxL
+15180	b1058	1	7023	1118530	1118670	-	yceO	hypothetical protein (NCBI)	0.3759	8	yceO
+15191	b1069	1	7023	1127062	1128597	+	mviN	predicted inner membrane protein (NCBI)	0.5371	41	murJ
+15211	b1089	1	7023	1146590	1146763	+	rpmF	50S ribosomal protein L32 (NCBI)	0.5402	4	rpmF
+15213	b1091	1	7023	1147982	1148935	+	fabH	3-oxoacyl-(acyl carrier protein) synthase (NCBI)	0.5472	25	fabH
+15214	b1092	1	7023	1148951	1149880	+	fabD	acyl carrier protein S-malonyltransferase (NCBI)	0.5516	26	fabD
+15215	b1093	1	7023	1149893	1150627	+	fabG	3-oxoacyl-[acyl-carrier-protein] reductase (NCBI)	0.5156	24	fabG
+15216	b1094	1	7023	1150838	1151074	+	acpP	acyl carrier protein (NCBI)	0.481	5	acpP
+15220	b1098	1	7023	1154347	1154988	+	tmk	thymidylate kinase (NCBI)	0.5405	22	tmk
+15221	b1099	1	7023	1154985	1155989	+	holB	DNA polymerase III subunit delta' (NCBI)	0.5403	33	holB
+15234	b1112	1	7023	1168296	1168553	+	ycfR	hypothetical protein (NCBI)	0.4729	7	bhsA
+15238	b1116	1	7023	1174650	1175849	+	lolC	outer membrane-specific lipoprotein transporter subunit (NCBI)	0.5417	39	lolC
+15239	b1117	1	7023	1175842	1176543	+	ycfV	putative ATP-binding component of a transport system (VIMSS)	0.5513	16	lolD
+15240	b1118	1	7023	1176543	1177787	+	lolE	outer membrane-specific lipoprotein transporter subunit (NCBI)	0.5189	45	lolE
+15243	b1121	1	7023	1179702	1180490	-	ycfZ	predicted inner membrane protein (NCBI)	0.4259	47	ycfZ
+15251	b1129	1	7023	1187539	1188999	-	phoQ	sensory histidine kinase in two-compoent regulatory system with PhoP (NCBI)	0.5133	48	phoQ
+15252	b1130	1	7023	1188999	1189670	-	phoP	DNA-binding response regulator in two-component regulatory system with PhoQ (NCBI)	0.4777	28	phoP
+15253	b1131	1	7023	1189839	1191209	-	purB	adenylosuccinate lyase (NCBI)	0.523	43	purB
+15255	b1133	1	7023	1191890	1192996	-	ycfB	orf, hypothetical protein (VIMSS)	0.5375	31	mnmA
+15258	b1136	1	7023	1194346	1195596	+	icd	isocitrate dehydrogenase (NCBI)	0.502	39	icd
+15259	b1137	1	7023	1196090	1196755	-	ymfD	e14 prophage; predicted SAM-dependent methyltransferase (NCBI)	0.3483	43	ymfD
+15267	b1145	1	7023	1201482	1202156	-	ymfK	e14 prophage; repressor protein phage e14 (NCBI)	0.4444	27	ymfK
+15268	b1146	1	7023	1202247	1202447	+	b1146	orf, hypothetical protein (VIMSS)	0.4279	9	ymfT
+15282	b1160	1	7023	1210903	1211226	-	elbA	hypothetical protein (NCBI)	0.3395	30	iraM
+15283	b1161	1	7023	1211926	1212330	-	ycgX	hypothetical protein (NCBI)	0.3679	28	ycgX
+15287	b1165	1	7023	1215291	1215563	+	ymgA	hypothetical protein (NCBI)	0.37	14	ymgA
+15288	b1166	1	7023	1215592	1215858	+	ymgB	hypothetical protein (NCBI)	0.3483	18	ariR
+15289	b1167	1	7023	1215971	1216219	+	ymgC	hypothetical protein (NCBI)	0.3574	17	ymgC
+1936424	b4520	1	7023	1218206	1218424	+	ymgF	hypothetical protein (NCBI)	0.4018	11	ymgF
+3446170	b4593	1	7023	1222213	1222386	-	ymgI	hypothetical protein (RefSeq)	0.3218	12	ymgI
+15296	b1174	1	7023	1223502	1223768	-	minE	cell division topological specificity factor MinE (NCBI)	0.4345	11	minE
+15304	b1182	1	7023	1228706	1229617	-	hlyE	hemolysin E (VIMSS)	0.4112	43	hlyE
+15314	b1192	1	7023	1241389	1242303	-	ldcA	L,D-carboxypeptidase A (NCBI)	0.5301	27	ldcA
+15325	b1203	1	7023	1255944	1257035	-	ychF	translation-associated GTPase (NCBI)	0.5101	23	ychF
+15326	b1204	1	7023	1257152	1257736	-	pth	peptidyl-tRNA hydrolase (NCBI)	0.4974	21	pth
+15329	b1207	1	7023	1260151	1261098	-	prsA	ribose-phosphate pyrophosphokinase (NCBI)	0.5253	33	prs
+15330	b1208	1	7023	1261249	1262100	-	ispE	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (NCBI)	0.534	20	ispE
+15331	b1209	1	7023	1262100	1262723	-	lolB	outer membrane lipoprotein LolB precursor (NCBI)	0.5144	22	lolB
+15332	b1210	1	7023	1262937	1264193	+	hemA	glutamyl-tRNA reductase (NCBI)	0.5434	35	hemA
+15333	b1211	1	7023	1264235	1265317	+	prfA	peptide chain release factor 1 (NCBI)	0.53	35	prfA
+15334	b1212	1	7023	1265317	1266150	+	prmC	N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase (NCBI)	0.5516	23	prmC
+15337	b1215	1	7023	1267388	1268242	+	kdsA	2-dehydro-3-deoxyphosphooctonate aldolase (NCBI)	0.5158	19	kdsA
+1936439	b4419	1	7023	1268391	1268498	-	ldrA	toxic polypeptide, small (NCBI)	0.5556	3	ldrA
+1936440	b4420	6	7023	1268546	1268612	+	rdlA	regulatory antisense RNA (NCBI)	0.5224	2	rdlA
+1936441	b4421	1	7023	1268926	1269033	-	ldrB	toxic polypeptide, small (NCBI)	0.5833	3	ldrB
+1936442	b4422	6	7023	1269081	1269146	+	rdlB	regulatory antisense sRNA (NCBI)	0.5	2	rdlB
+1936443	b4423	1	7023	1269461	1269568	-	ldrC	toxic polypeptide, small (NCBI)	0.5556	3	ldrC
+1936444	b4424	6	7023	1269616	1269683	+	rdlC	regulatory antisense sRNA (NCBI)	0.4853	2	rdlC
+15339	b1217	1	7023	1271342	1271572	+	chaB	cation transport regulator (NCBI)	0.4545	10	chaB
+1936445	b4425	6	7023	1286289	1286459	-	rttR	regulatory sRNA (NCBI)	0.5789	3	rttR
+15351	b1229	1	7023	1286310	1286399	-	tpr	predicted protamine-like protein (RefSeq)	0.6444	0	tpr
+1936446	b1230	5	7023	1286467	1286551	-	tyrV	tRNA-Tyr (NCBI)	0.5882	1	tyrV
+15356	b1236	1	7023	1290680	1291588	+	galU	glucose-1-phosphate uridylyltransferase (NCBI)	0.4697	38	galU
+15357	b1237	1	7023	1291732	1292145	-	hns	global DNA-binding transcriptional dual regulator H-NS (NCBI)	0.4662	15	hns
+15374	b1254	1	7023	1310375	1310914	-	yciB	intracellular septation protein A (NCBI)	0.4648	22	yciB
+15377	b1257	1	7023	1312742	1313248	-	yciE	hypothetical protein (NCBI)	0.4063	24	yciE
+15378	b1258	1	7023	1313294	1313794	-	yciF	hypothetical protein (NCBI)	0.4311	14	yciF
+15385	b1265	1	7023	1321062	1321106	-	trpL	trp operon leader peptide (NCBI)	0.4444	1	trpL
+15394	b1274	1	7023	1329072	1331669	+	topA	DNA topoisomerase I (NCBI)	0.5177	79	topA
+15395	b1275	1	7023	1331879	1332853	+	cysB	DNA-binding transcriptional dual regulator, O-acetyl-L-serine-binding (NCBI)	0.4831	43	cysB
+15397	b1277	1	7023	1336594	1337184	-	ribA	GTP cyclohydrolase II protein (NCBI)	0.5008	23	ribA
+15400	b1280	1	7023	1338582	1339751	+	yciM	hypothetical protein (NCBI)	0.5188	44	lapB
+7497346	b4672	1	7023	1344820	1344924	+	ymiB	expressed protein (RefSeq)	0.3048	7	ymiB
+15406	b1286	1	7023	1345002	1346936	-	rnb	exoribonuclease II (NCBI)	0.5323	39	rnb
+15408	b1288	1	7023	1348275	1349063	-	fabI	enoyl-(acyl carrier protein) reductase (NCBI)	0.5323	22	fabI
+15411	b1291	1	7023	1350660	1351652	-	sapD	predicted antimicrobial peptide transporter subunit (NCBI)	0.5136	27	sapD
+15412	b1292	1	7023	1351652	1352542	-	sapC	predicted antimicrobial peptide transporter subunit (NCBI)	0.569	25	sapC
+15413	b1293	1	7023	1352529	1353494	-	sapB	predicted antimicrobial peptide transporter subunit (NCBI)	0.5145	29	sapB
+7497347	b4673	7	7023	1388892	1388957	-	ymjD	NA	0.3636	5	ymjD
+15451	b1331	1	7023	1394100	1395116	+	insH-4	IS5 transposase and trans-activator (NCBI)	0.5467	13	insH4
+15452	b1332	1	7023	1395389	1395646	+	ynaJ	predicted inner membrane protein (NCBI)	0.4535	9	ynaJ
+15460	b1340	1	7023	1404003	1404566	+	ydaL	hypothetical protein (NCBI)	0.5426	19	smrA
+10279117	b4699	6	7023	1407153	1407274	+	fnrS	FNR-activated anaerobic sRNA antisense regulator down regulates cydDC, metE, sodA, sodB, Hfq-dependent; mediates negative FNR regulation (RefSeq)	0.4426	5	fnrS
+15467	b1347	1	7023	1411555	1411764	-	ydaC	Rac prophage; predicted protein (NCBI)	0.3476	9	rcbA
+15471	b1351	1	7023	1415512	1415787	-	racC	Rac prophage; predicted protein (NCBI)	0.3913	10	racC
+1936475	b4526	1	7023	1415862	1416032	-	ydaE	Rac prophage; conserved protein (NCBI)	0.3684	4	ydaE
+15473	b1352	1	7023	1416032	1416253	-	ydaD	orf, hypothetical protein (VIMSS)	0.4189	13	kilR
+15478	b1356	1	7023	1417789	1418265	-	racR	Rac prophage; predicted DNA-binding transcriptional regulator (NCBI)	0.4193	24	racR
+15483	b1361	7	7023	1420725	1421224	+	ydaW	orf, hypothetical protein (VIMSS)	0.478	12	ydaW
+1936482	b4528	1	7023	1421424	1421609	+	rzoR	Rac prophage; predicted lipoprotein (NCBI)	0.5699	2	rzoR
+15485	b1363	1	7023	1421806	1423263	+	trkG	Rac prophage; potassium transporter subunit (NCBI)	0.3807	93	trkG
+15495	b1373	1	7023	1430435	1431010	+	tfaR	Rac prophage; predicted tail fiber assembly protein (NCBI)	0.4809	20	tfaR
+15496	b1374	1	7023	1431108	1431698	-	pinR	Rac prophage; predicted site-specific recombinase (NCBI)	0.4467	18	pinR
+15497	b1375	1	7023	1432015	1432248	-	ynaE	cold shock protein, function unknown, Rac prophage (NCBI)	0.359	14	ynaE
+3446175	b4638	7	7023	1432982	1433032	-	ttcC	NA	0.3137	3	ttcC
+1936487	b4427	6	7023	1435145	1435253	+	micC	regulatory sRNA (NCBI)	0.3853	4	micC
+15511	b1389	1	7023	1452892	1453179	+	paaB	predicted multicomponent oxygenase/reductase subunit for phenylacetic acid degradation (NCBI)	0.4965	6	paaB
+7497348	b4674	1	7023	1463189	1463254	-	ynbG	expressed protein (RefSeq)	0.1364	11	ynbG
+15524	b1402	1	7023	1465945	1466850	-	insD-2	IS2 insertion element transposase InsAB' (NCBI)	0.5508	25	insD2
+15525	b1403	1	7023	1466808	1467173	-	insC	KpLE2 phage-like element; IS2 insertion element repressor InsA (RefSeq)	0.5301	8	insC2
+15526	b1404	1	7023	1467382	1468533	+	insI-2	IS30 transposase (NCBI)	0.4583	53	insI2
+15531	b1409	1	7023	1476250	1477146	+	ynbB	predicted CDP-diglyceride synthase (NCBI)	0.4359	49	ynbB
+3446176	b4597	6	7023	1489467	1489530	-	rydC	sRNA regulator of yejABEF (RefSeq)	0.5	5	rydC
+1936500	b4428	1	7023	1489946	1490095	-	hokB	toxic polypeptide, small (NCBI)	0.5333	4	hokB
+1936501	b4429	6	7023	1490143	1490198	+	sokB	Antisense sRNA blocking mokB, and hence hokB, translation (RefSeq)	0.5179	2	sokB
+15550	b1429	1	7023	1498597	1499589	+	tehA	potassium-tellurite ethidium and proflavin transporter (NCBI)	0.5317	28	tehA
+15557	b1436	1	7023	1506858	1507088	-	yncJ	hypothetical protein (NCBI)	0.4892	4	yncJ
+15566	b1445	1	7023	1515413	1515586	+	b1445	orf, hypothetical protein (VIMSS)	0.4483	5	ortT
+15568	b1447	1	7023	1515906	1516355	-	ydcZ	predicted inner membrane protein (NCBI)	0.5178	13	ydcZ
+15576	b1455	1	7023	1524964	1525176	+	yncH	hypothetical protein (NCBI)	0.3146	13	yncH
+15578	b1457	1	7023	1527946	1528428	+	ydcD	hypothetical protein (NCBI)	0.2733	47	ydcD
+15580	b1459	7	7023	1528610	1529663	+	yncI	hypothetical protein (NCBI)	0.3786	48	yncI
+15581	b1460	1	7023	1529840	1530976	+	ydcC	hypothetical protein (NCBI)	0.4178	44	ydcC
+15591	b1470	1	7023	1542408	1542743	-	yddJ	hypothetical protein (NCBI)	0.3571	29	yddJ
+15592	b1471	7	7023	1542782	1543771	-	yddK	hypothetical protein (RefSeq)	0.3242	76	yddK
+15593	b1472	7	7023	1543774	1544052	-	yddL	predicted lipoprotein (RefSeq)	0.4229	19	yddL
+15598	b1477	1	7023	1550422	1550706	-	yddM	predicted DNA-binding transcriptional regulator (RefSeq)	0.5123	3	yddM
+15614	b1493	1	7023	1568669	1570069	-	gadB	glutamate decarboxylase B, PLP-dependent (NCBI)	0.5332	38	gadB
+15618	b1497	1	7023	1577657	1578814	-	b1497	putative enzyme (VIMSS)	0.3869	62	ydeM
+15620	b1499	1	7023	1580950	1581711	-	ydeO	predicted DNA-binding transcriptional acfivator (NCBI)	0.395	35	ydeO
+5752727	b1500	1	7023	1581786	1581983	-	yneN	Two component system connector membrane protein, EvgSA to PhoQP (RefSeq)	0.3737	9	safA
+15627	b1506	7	7023	1588358	1588560	-	yneL	predicted transcriptional regulator (NCBI)	0.4631	9	yneL
+15629	b1508	1	7023	1590200	1590466	-	hipB	DNA-binding transcriptional regulator (NCBI)	0.4457	6	hipB
+15653	b1532	1	7023	1618013	1618231	+	marB	hypothetical protein (NCBI)	0.5023	7	marB
+3446178	b4599	1	7023	1620670	1620765	+	yneM	hypothetical protein (RefSeq)	0.3854	6	mgtS
+15658	b1536	1	7023	1622129	1622521	-	ydeI	hypothetical protein (NCBI)	0.4758	12	ydeI
+15663	b1541	1	7023	1627239	1627442	+	ydfZ	hypothetical protein (NCBI)	0.5196	5	ydfZ
+15666	b1544	1	7023	1631096	1631329	+	ydfK	cold shock protein, function unknown, Qin prophage (NCBI)	0.3547	14	ydfK
+15667	b1545	1	7023	1631646	1632236	+	pinQ	Qin prophage; predicted site-specific recombinase (NCBI)	0.4484	18	pinQ
+15668	b1546	1	7023	1632334	1632909	-	tfaQ	Qin prophage; predicted tail fibre assembly protein (NCBI)	0.4826	20	tfaQ
+15671	b1549	1	7023	1635071	1635481	+	ydfO	orf, hypothetical protein (VIMSS)	0.3163	33	ydfO
+15673	b1551	1	7023	1635978	1636133	-	b1551	orf, hypothetical protein (VIMSS)	0.4359	6	ynfN
+15674	b1552	1	7023	1636479	1636691	-	cspI	Qin prophage; cold shock protein (NCBI)	0.4038	5	cspI
+7497350	b4689	1	7023	1637104	1637358	-	rzoQ	hypothetical protein (RefSeq)	0.4941	8	rzoQ
+15676	b1554	1	7023	1637548	1638081	-	ydfQ	Qin prophage; predicted lysozyme (NCBI)	0.5056	19	rrrQ
+15677	b1555	1	7023	1638078	1638389	-	ydfR	Qin prophage; predicted protein (NCBI)	0.4359	12	ydfR
+15683	b1561	1	7023	1642675	1642926	-	rem	Qin prophage; predicted protein (NCBI)	0.4048	9	rem
+15686	b1564	1	7023	1643657	1643896	-	relB	Qin prophage; bifunctional antitoxin of the RelE-RelB toxin-antitoxin system/ transcriptional repressor (NCBI)	0.4708	9	relB
+15692	b1570	1	7023	1645958	1646365	+	dicA	Qin prophage; predicted regulator for DicB (NCBI)	0.4363	13	dicA
+15693	b1571	1	7023	1646532	1646687	+	ydfA	Qin prophage; predicted protein (NCBI)	0.4808	4	ydfA
+15695	b1573	1	7023	1646847	1647065	+	ydfC	Qin prophage; predicted protein (RefSeq)	0.4795	8	ydfC
+1936540	b1574	6	7023	1647406	1647458	+	dicF	antisense RNA DicF (NCBI)	0.5472	2	dicF
+15697	b1576	1	7023	1647818	1648009	+	ydfD	Qin prophage; predicted protein (NCBI)	0.4323	8	ydfD
+15699	b1578	7	7023	1648869	1649561	+	insD	Qin prophage; IS2 insertion element transposase InsAB', C-ter fragment (pseudogene) (RefSeq)	0.5455	18	insD7
+3446181	b4601	1	7023	1669801	1669884	+	ydgU	hypothetical protein (RefSeq)	0.4286	5	ydgU
+15720	b1599	1	7023	1670844	1671173	-	mdtI	multidrug efflux system transporter (NCBI)	0.5152	9	mdtI
+15721	b1600	1	7023	1671160	1671525	-	mdtJ	multidrug efflux system transporter (NCBI)	0.4235	24	mdtJ
+15752	b1631	1	7023	1708228	1708848	+	rsxG	electron transport complex protein RnfG (NCBI)	0.5314	18	rsxG
+15758	b1637	1	7023	1713972	1715246	-	tyrS	tyrosyl-tRNA synthetase (NCBI)	0.5153	31	tyrS
+15759	b1638	1	7023	1715375	1716031	-	pdxH	pyridoxamine 5'-phosphate oxidase (NCBI)	0.519	17	pdxH
+1936555	b1641	1	7023	1717900	1718367	+	slyB	outer membrane lipoprotein (NCBI)	0.5128	18	slyB
+15767	b1646	1	7023	1722158	1722679	-	sodC	superoxide dismutase, Cu, Zn (NCBI)	0.5287	13	sodC
+15770	b1649	1	7023	1724047	1724646	+	ydhM	predicted DNA-binding transcriptional regulator (RefSeq)	0.5233	18	nemR
+15773	b1652	1	7023	1726371	1727018	+	rnt	ribonuclease T (NCBI)	0.5417	14	rnt
+15775	b1654	1	7023	1731778	1732125	-	ydhD	hypothetical protein (NCBI)	0.5259	7	grxD
+3446182	b4602	1	7023	1735480	1735569	-	ynhF	hypothetical protein (RefSeq)	0.5	4	cydH
+15783	b1662	1	7023	1740625	1741266	-	ribC	riboflavin synthase subunit alpha (NCBI)	0.4751	24	ribC
+1936563	b1665	5	7023	1744459	1744535	+	valV	tRNA-Val (NCBI)	0.5325	1	valV
+1936564	b1666	5	7023	1744540	1744616	+	valW	tRNA-Val (NCBI)	0.6104	1	valW
+1936567	b4430	6	7023	1762737	1762804	-	rydB	regulatory sRNA (NCBI)	0.5294	3	rydB
+15809	b1690	1	7023	1769095	1770309	+	ydiM	predicted transporter (NCBI)	0.4494	73	ydiM
+15819	b1700	1	7023	1780705	1780998	+	ydiT	predicted 4Fe-4S ferredoxin-type protein (NCBI)	0.4796	11	ydiT
+15824	b1705	1	7023	1787637	1787828	+	ydiE	hypothetical protein (NCBI)	0.5052	5	ydiE
+15828	b1709	1	7023	1790833	1791582	-	btuD	vitamin B12-transporter ATPase (NCBI)	0.552	13	btuD
+15831	b1712	1	7023	1793277	1793576	-	ihfA	integration host factor subunit alpha (NCBI)	0.5	9	ihfA
+15832	b1713	1	7023	1793581	1795968	-	pheT	phenylalanyl-tRNA synthetase beta subunit (NCBI)	0.5436	47	pheT
+15833	b1714	1	7023	1795983	1796966	-	pheS	phenylalanyl-tRNA synthetase alpha subunit (NCBI)	0.5386	25	pheS
+15834	b1715	1	7023	1797250	1797294	-	pheM	phenylalanyl-tRNA synthetase operon leader peptide (NCBI)	0.3556	3	pheM
+15835	b1716	1	7023	1797417	1797773	-	rplT	50S ribosomal protein L20 (NCBI)	0.4818	16	rplT
+15836	b1717	1	7023	1797826	1798023	-	rpmI	50S ribosomal subunit protein A (VIMSS)	0.5	6	rpmI
+15837	b1718	1	7023	1798120	1798662	-	infC	translation initiation factor IF-3 (NCBI)	0.4862	19	infC
+15838	b1719	1	7023	1798666	1800594	-	thrS	threonyl-tRNA synthetase (NCBI)	0.4956	68	thrS
+1936577	b4535	1	7023	1803189	1803296	+	yniD	predicted protein (RefSeq)	0.4815	4	yniD
+15854	b1736	1	7023	1817479	1817829	-	chbA	N,N'-diacetylchitobiose-specific enzyme IIA component of PTS (NCBI)	0.4986	5	chbA
+15858	b1740	1	7023	1820482	1821309	+	nadE	NAD synthetase (NCBI)	0.4952	31	nadE
+15877	b1759	1	7023	1839514	1839921	+	nudG	pyrimidine (deoxy)nucleoside triphosphate pyrophosphohydrolase (NCBI)	0.549	11	nudG
+15880	b1762	1	7023	1841855	1842895	-	b1762	orf, hypothetical protein (VIMSS)	0.4131	54	ynjI
+15891	b1773	1	7023	1854957	1855793	-	ydjI	predicted aldolase (NCBI)	0.454	30	ydjI
+15897	b1779	1	7023	1860795	1861790	+	gapA	glyceraldehyde-3-phosphate dehydrogenase (NCBI)	0.5	37	gapA
+15906	b1788	1	7023	1872102	1872206	-	b1788	orf, hypothetical protein (VIMSS)	0.4286	3	yoaI
+7497351	b4676	1	7023	1876797	1876895	+	yoaK	expressed protein (RefSeq)	0.4242	8	yoaK
+15925	b1807	1	7023	1888596	1889291	-	yeaZ	predicted peptidase (NCBI)	0.556	20	tsaB
+15943	b1825	1	7023	1906285	1906572	-	yebO	hypothetical protein (NCBI)	0.434	6	yebO
+15944	b1826	1	7023	1906647	1906790	-	yobG	hypothetical protein (NCBI)	0.4653	3	mgrB
+1936611	b4432	6	7023	1921090	1921338	+	ryeA	unknown RNA (NCBI)	0.4578	9	ryeA
+1936612	b4433	6	7023	1921188	1921308	-	ryeB	unknown RNA (NCBI)	0.4628	5	sdsR
+15970	b1852	1	7023	1932863	1934338	-	zwf	glucose-6-phosphate 1-dehydrogenase (NCBI)	0.5169	44	zwf
+15978	b1860	1	7023	1942370	1943380	-	ruvB	Holliday junction DNA helicase B (NCBI)	0.5272	26	ruvB
+15979	b1861	1	7023	1943389	1944000	-	ruvA	Holliday junction DNA helicase motor protein (NCBI)	0.5327	14	ruvA
+7497353	b4677	1	7023	1944139	1944204	-	yobI	expressed protein (RefSeq)	0.197	7	yobI
+15981	b1863	1	7023	1944879	1945400	-	ruvC	Holliday junction resolvase (NCBI)	0.5594	17	ruvC
+15983	b1865	1	7023	1946204	1946656	-	nudB	dATP pyrophosphohydrolase (NCBI)	0.5254	12	nudB
+15984	b1866	1	7023	1946774	1948546	-	aspS	aspartyl-tRNA synthetase (NCBI)	0.5375	50	aspS
+15994	b1876	1	7023	1958086	1959819	+	argS	arginyl-tRNA synthetase (NCBI)	0.5329	47	argS
+15995	b1877	1	7023	1959996	1960484	+	yecT	orf, hypothetical protein (VIMSS)	0.3885	25	yecT
+16000	b1882	1	7023	1965072	1965461	-	cheY	chemotaxis regulator transmitting signal to flagellar motor component (NCBI)	0.4923	10	cheY
+16011	b1893	1	7023	1976542	1977045	-	insB-5	IS1 transposase InsAB' (NCBI)	0.5456	16	insB5
+16012	b1894	1	7023	1976964	1977239	-	insA-5	IS1 repressor protein InsA (NCBI)	0.529	9	insA5
+16020	b4537	1	7023	1985531	1985782	-	b1903	orf, hypothetical protein (VIMSS)	0.4841	6	yecJ
+7497354	b4663	1	7023	1985897	1985983	-	azuC	expressed protein (RefSeq)	0.3908	5	azuC
+16023	b1906	1	7023	1987275	1987514	-	yecH	hypothetical protein (NCBI)	0.4708	8	yecH
+1936626	b1909	5	7023	1989839	1989925	-	leuZ	tRNA-Leu (NCBI)	0.5977	2	leuZ
+1936627	b1910	5	7023	1989938	1990011	-	cysT	tRNA-Cys (NCBI)	0.5676	3	cysT
+1936628	b1911	5	7023	1990066	1990141	-	glyW	tRNA-Gly (NCBI)	0.6053	2	glyW
+16026	b1912	1	7023	1990293	1990841	-	pgsA	phosphatidylglycerophosphate synthetase (NCBI)	0.5246	16	pgsA
+1936634	b4495	7	7023	2009247	2009381	-	yedN	NA	0.3185	12	yedN
+16050	b1936	7	7023	2010526	2010687	+	intG	predicted defective phage integrase (pseudogene) (RefSeq)	0.5	5	intG
+16051	b1937	1	7023	2010724	2011038	-	fliE	flagellar hook-basal body protein FliE (NCBI)	0.5397	10	fliE
+16061	b1947	1	7023	2019528	2019893	+	fliO	flagellar biosynthesis (VIMSS)	0.5464	8	fliO
+16065	b1951	1	7023	2021992	2022615	+	rcsA	DNA-binding transcriptional activator, co-regulator with RcsB (NCBI)	0.3814	32	rcsA
+1936644	b1975	5	7023	2041492	2041581	-	serU	tRNA-Ser (NCBI)	0.6333	2	serU
+1936648	b4497	7	7023	2050300	2051352	-	yeeL	NA	0.3875	66	yeeL
+1936650	b1986	5	7023	2057875	2057950	+	asnU	tRNA-Asn (NCBI)	0.5263	3	asnU
+3446185	b4639	7	7023	2064092	2064178	-	yeeH	NA	0.4138	5	yeeH
+16102	b1994	1	7023	2064329	2065345	-	insH-6	CP4-44 prophage; IS5 transposase and trans-activator (NCBI)	0.5467	14	insH6
+16104	b1996	1	7023	2066976	2067881	-	insD-3	CP4-44 prophage; IS2 insertion element transposase InsAB' (NCBI)	0.5508	25	insD3
+1936653	b1997	1	7023	2067839	2068204	-	insC	KpLE2 phage-like element; IS2 insertion element repressor InsA (RefSeq)	0.5301	8	insC3
+7497355	b4678	1	7023	2085076	2085138	-	yoeI	expressed protein (RefSeq)	0.4444	3	yoeI
+16126	b2018	1	7023	2088020	2088070	+	hisL	his operon leader peptide (NCBI)	0.4314	1	hisL
+16139	b2030	1	7023	2099919	2100935	-	insH-7	IS5 transposase and trans-activator (NCBI)	0.5467	13	insH7
+16163	b2055	1	7023	2126928	2127674	-	wcaE	predicted glycosyl transferase (NCBI)	0.4552	34	wcaE
+16173	b2065	1	7023	2139658	2140239	-	dcd	deoxycytidine triphosphate deaminase (NCBI)	0.6031	11	dcd
+7497356	b4667	1	7023	2151373	2151432	-	ibsA	toxic membrane protein (RefSeq)	0.4	4	ibsA
+1936677	b4437	6	7023	2151668	2151803	+	ryeD	Novel sRNA, function unknown; paralogous to the other QUAD sRNA genes (RefSeq)	0.5368	8	sibB
+7497357	b4668	1	7023	2151705	2151761	-	ibsB	toxic membrane protein (RefSeq)	0.4386	3	ibsB
+16196	b2088	1	7023	2168260	2168559	+	insE	IS3 element protein InsE (RefSeq)	0.5	7	insE5
+16197	b2089	1	7023	2168556	2169422	+	insF-5	IS3 element protein InsF (NCBI)	0.5513	29	insF5
+16215	b2108	1	7023	2185402	2186436	-	yehA	predicted fimbrial-like adhesin protein (NCBI)	0.3874	67	yehA
+1936696	b4542	1	7023	2213679	2213786	+	yohO	hypothetical protein (NCBI)	0.4907	6	yohO
+16262	b2153	1	7023	2241006	2241674	-	folE	GTP cyclohydrolase I (NCBI)	0.5127	15	folE
+16277	b2168	1	7023	2259449	2260387	-	fruK	1-phosphofructokinase (NCBI)	0.5346	23	fruK
+16294	b2185	1	7023	2280539	2280823	+	rplY	50S ribosomal protein L25 (NCBI)	0.5053	10	rplY
+16300	b2192	1	7023	2287087	2288103	-	insH-8	IS5 transposase and trans-activator (NCBI)	0.5467	13	insH8
+3446192	b4604	1	7023	2301628	2301792	+	yojO	hypothetical protein (RefSeq)	0.4	10	yojO
+1936711	b4439	6	7023	2311106	2311198	+	micF	regulatory sRNA (NCBI)	0.3548	6	micF
+16338	b2231	1	7023	2334815	2337442	-	gyrA	DNA gyrase subunit A (NCBI)	0.54	71	gyrA
+16339	b2232	1	7023	2337589	2338311	+	ubiG	3-demethylubiquinone-9 3-methyltransferase (NCBI)	0.5422	16	ubiG
+16341	b2234	1	7023	2342887	2345172	+	nrdA	ribonucleotide-diphosphate reductase alpha subunit (NCBI)	0.5367	83	nrdA
+16342	b2235	1	7023	2345406	2346536	+	nrdB	ribonucleotide-diphosphate reductase beta subunit (NCBI)	0.5057	36	nrdB
+16345	b2238	7	7023	2347673	2347915	+	yfaH	hypothetical protein (RefSeq)	0.4115	10	yfaH
+16376	b2269	1	7023	2380735	2381946	+	elaD	predicted enzyme (NCBI)	0.354	76	elaD
+16380	b2273	1	7023	2385732	2386448	-	yfbN	hypothetical protein (NCBI)	0.3905	36	yfbN
+16386	b2279	1	7023	2393065	2393367	-	nuoK	NADH dehydrogenase subunit K (NCBI)	0.5479	8	nuoK
+16403	b2296	1	7023	2411492	2412694	+	ackA	acetate kinase (NCBI)	0.522	38	ackA
+16404	b2297	1	7023	2412769	2414913	+	pta	phosphate acetyltransferase (NCBI)	0.5552	51	pta
+16418	b2311	1	7023	2426079	2426648	-	ubiX	3-octaprenyl-4-hydroxybenzoate carboxy-lyase (NCBI)	0.5316	17	ubiX
+16422	b2315	1	7023	2429696	2430964	-	folC	bifunctional folylpolyglutamate synthase/ dihydrofolate synthase (NCBI)	0.5603	36	folC
+16423	b2316	1	7023	2431034	2431948	-	accD	acetyl-CoA carboxylase subunit beta (NCBI)	0.5541	17	accD
+16430	b2323	1	7023	2438407	2439627	-	fabB	3-oxoacyl-(acyl carrier protein) synthase (NCBI)	0.5659	35	fabB
+16437	b2330	1	7023	2445530	2446462	-	yfcB	putative adenine-specific methylase (VIMSS)	0.5252	29	prmB
+16451	b2345	1	7023	2461034	2462092	+	yfdF	hypothetical protein (NCBI)	0.3551	81	yfdF
+1936740	b2348	5	7023	2464331	2464405	+	argW	tRNA-Arg (NCBI)	0.4933	5	argW
+16457	b2352	1	7023	2467153	2468484	+	yfdI	CPS-53 (KpLE1) prophage; predicted inner membrane protein (NCBI)	0.2755	133	yfdI
+3446197	b4643	8	7023	2474606	2474620	+	pawZ	tRNA-OTHER (RefSeq)	0.6667	0	pawZ
+16499	b2394	1	7023	2512353	2513465	+	yi81_3	IS186 hypothetical protein (VIMSS)	0.5193	33	insL3
+1936751	b2396	5	7023	2516063	2516138	-	alaX	tRNA-Ala (NCBI)	0.6053	2	alaX
+1936752	b2397	5	7023	2516178	2516253	-	alaW	tRNA-Ala (NCBI)	0.6053	2	alaW
+16503	b2400	1	7023	2517279	2518694	-	gltX	glutamyl-tRNA synthetase (NCBI)	0.5254	44	gltX
+1936754	b2401	5	7023	2518953	2519028	+	valU	tRNA-Val (NCBI)	0.6184	1	valU
+1936755	b2402	5	7023	2519073	2519148	+	valX	tRNA-Val (NCBI)	0.6184	1	valX
+1936756	b2403	5	7023	2519195	2519270	+	valY	tRNA-Val (NCBI)	0.6184	1	valY
+1936757	b2404	5	7023	2519275	2519350	+	lysV	tRNA-Lys (NCBI)	0.5	2	lysV
+16510	b2411	1	7023	2526183	2528198	-	ligA	NAD-dependent DNA ligase LigA (NCBI)	0.5441	46	ligA
+16511	b2412	1	7023	2528269	2529255	-	zipA	cell division protein ZipA (NCBI)	0.5512	28	zipA
+16514	b2415	1	7023	2531786	2532043	+	ptsH	phosphohistidinoprotein-hexose phosphotransferase component of PTS system (Hpr) (NCBI)	0.5078	6	ptsH
+16515	b2416	1	7023	2532088	2533815	+	ptsI	PEP-protein phosphotransferase of PTS system (enzyme I) (NCBI)	0.4965	56	ptsI
+16516	b2417	1	7023	2533856	2534365	+	crr	glucose-specific PTS system enzyme IIA component (NCBI)	0.4725	14	crr
+16571	b2472	1	7023	2589629	2590756	+	dapE	succinyl-diaminopimelate desuccinylase (NCBI)	0.5346	35	dapE
+16577	b2478	1	7023	2596904	2597782	-	dapA	dihydrodipicolinate synthase (NCBI)	0.5176	30	dapA
+16595	b2496	1	7023	2616097	2616798	-	hda	ATPase regulatory factor involved in DnaA inactivation (RefSeq)	0.5385	18	hda
+16603	b2504	1	7023	2627312	2627503	+	yfgG	hypothetical protein (NCBI)	0.4948	6	yfgG
+16606	b2507	1	7023	2628980	2630557	-	guaA	bifunctional GMP synthase/glutamine amidotransferase protein (NCBI)	0.5412	49	guaA
+16607	b2508	1	7023	2630626	2632092	-	guaB	inositol-5-monophosphate dehydrogenase (NCBI)	0.5467	43	guaB
+16610	b2511	1	7023	2633906	2635378	-	b2511	putative GTP-binding factor (VIMSS)	0.5221	43	der
+16613	b2514	1	7023	2637323	2638597	-	hisS	histidyl-tRNA synthetase (NCBI)	0.5475	41	hisS
+16614	b2515	1	7023	2638708	2639826	-	ispG	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (NCBI)	0.5326	29	ispG
+16623	b2524	1	7023	2654558	2654758	-	yfhJ	hypothetical protein (NCBI)	0.5025	5	iscX
+16624	b2525	1	7023	2654770	2655105	-	fdx	[2Fe-2S] ferredoxin (NCBI)	0.5179	8	fdx
+16625	b2526	1	7023	2655107	2656957	-	hscA	chaperone protein HscA (NCBI)	0.577	48	hscA
+16626	b2527	1	7023	2656974	2657489	-	hscB	co-chaperone HscB (NCBI)	0.5233	13	hscB
+16628	b2529	1	7023	2657925	2658311	-	iscU	scaffold protein (NCBI)	0.5013	8	iscU
+1936785	b2530	1	7023	2658339	2659553	-	iscS	cysteine desulfurase (NCBI)	0.5333	38	iscS
+16632	b2533	1	7023	2661464	2662267	+	suhB	inositol monophosphatase (NCBI)	0.5448	29	suhB
+16650	b2551	1	7023	2682276	2683529	-	glyA	serine hydroxymethyltransferase (NCBI)	0.5335	47	glyA
+16658	b2559	1	7023	2695376	2695879	-	tadA	tRNA-specific adenosine deaminase (RefSeq)	0.5476	11	tadA
+16662	b2563	1	7023	2698640	2699020	-	acpS	4'-phosphopantetheinyl transferase (NCBI)	0.5144	11	acpS
+16665	b2566	1	7023	2700503	2701408	-	era	GTP-binding protein Era (NCBI)	0.5232	18	era
+16666	b2567	1	7023	2701405	2702085	-	rnc	ribonuclease III (NCBI)	0.5066	29	rnc
+16667	b2568	1	7023	2702357	2703331	-	lepB	leader peptidase (signal peptidase I) (NCBI)	0.52	27	lepB
+16672	b2573	1	7023	2707459	2708034	-	rpoE	RNA polymerase, sigma 24 (sigma E) factor (NCBI)	0.4878	27	rpoE
+16684	b2585	1	7023	2720749	2722104	+	pssA	phosphatidylserine synthase; phospholipid synthesis (VIMSS)	0.4889	53	pssA
+1936801	b2588	4	7023	2724091	2724210	-	rrfG	5S ribosomal RNA (NCBI)	0.6417	4	rrfG
+1936802	b2589	2	7023	2724303	2727206	-	rrlG	23S ribosomal RNA (NCBI)	0.5341	117	rrlG
+1936803	b2590	5	7023	2727391	2727466	-	gltW	tRNA-Glu (NCBI)	0.6447	3	gltW
+1936804	b2591	3	7023	2727638	2729179	-	rrsG	16S ribosomal RNA (NCBI)	0.546	51	rrsG
+16689	b2594	1	7023	2733053	2734033	-	rluD	23S rRNA pseudouridine synthase (NCBI)	0.528	33	rluD
+16690	b2595	1	7023	2734168	2734905	+	yfiO	predicted lipoprotein (NCBI)	0.5122	35	bamD
+16693	b2598	1	7023	2735621	2735668	+	pheL	pheA gene leader peptide (NCBI)	0.375	2	pheL
+16701	b2606	1	7023	2742205	2742552	-	rplS	50S ribosomal protein L19 (NCBI)	0.4828	13	rplS
+16702	b2607	1	7023	2742594	2743361	-	trmD	tRNA (guanine-N(1)-)-methyltransferase (NCBI)	0.5339	19	trmD
+16703	b2608	1	7023	2743392	2743940	-	yfjA	orf, hypothetical protein (VIMSS)	0.49	16	rimM
+16704	b2609	1	7023	2743959	2744207	-	rpsP	30S ribosomal protein S16 (NCBI)	0.5141	5	rpsP
+16705	b2610	1	7023	2744456	2745817	-	ffh	Signal Recognition Particle (SRP) component with 4.5S RNA (ffs) (NCBI)	0.5419	36	ffh
+16709	b2615	1	7023	2748853	2749731	+	yfjB	inorganic polyphosphate/ATP-NAD kinase (NCBI)	0.4994	25	nadK
+16713	b2619	1	7023	2752310	2752786	-	yfjG	hypothetical protein (NCBI)	0.4717	21	ratA
+16714	b2620	1	7023	2752918	2753400	+	smpB	SsrA-binding protein (NCBI)	0.5176	17	smpB
+1936812	b2621	6	7023	2753615	2753977	+	ssrA	10Sa RNA SsrA (NCBI)	0.5289	18	ssrA
+16733	b2642	1	7023	2771340	2773043	+	yfjW	CP4-57 prophage; predicted inner membrane protein (NCBI)	0.3122	143	yfjW
+3446205	b4645	8	7023	2775994	2776007	+	psaA	NA	0.7857	0	psaA
+16741	b2650	7	7023	2781660	2783033	-	ypjC	hypothetical protein (RefSeq)	0.3421	91	ypjC
+1936822	b2652	5	7023	2783784	2783859	-	ileY	tRNA-Ile (NCBI)	0.5658	3	ileY
+1936823	b4462	7	7023	2784419	2786671	+	ygaQ	hypothetical protein (RefSeq)	0.3724	141	ygaQ
+1936831	b4442	6	7023	2812824	2812901	+	micA	sRNA effector of ompA mRNA instability in stationary phase; requires Hfq (RefSeq)	0.4103	1	micA
+1936832	b2691	5	7023	2815806	2815882	-	argQ	tRNA-Arg (NCBI)	0.5974	4	argQ
+1936833	b2692	5	7023	2816081	2816157	-	argZ	tRNA-Arg (NCBI)	0.5974	4	argZ
+1936834	b2693	5	7023	2816220	2816296	-	argY	tRNA-Arg (NCBI)	0.5974	4	argY
+1936835	b2694	5	7023	2816495	2816571	-	argV	tRNA-Arg (NCBI)	0.5974	4	argV
+1936836	b2695	5	7023	2816575	2816667	-	serV	tRNA-Ser (NCBI)	0.6452	2	serV
+16780	b2696	1	7023	2816983	2817168	-	csrA	carbon storage regulator (NCBI)	0.4946	7	csrA
+16781	b2697	1	7023	2817403	2820033	-	alaS	alanyl-tRNA synthetase (NCBI)	0.5363	71	alaS
+16783	b2699	1	7023	2820730	2821791	-	recA	recombinase A (NCBI)	0.5414	31	recA
+16830	b2746	1	7023	2869323	2869802	-	ispF	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (NCBI)	0.5375	18	ispF
+16831	b2747	1	7023	2869802	2870512	-	ispD	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (NCBI)	0.5541	18	ispD
+16832	b2748	1	7023	2870531	2870842	-	ftsB	cell divison protein FtsB (NCBI)	0.5192	11	ftsB
+7497361	b4682	1	7023	2903579	2903719	+	yqcG	expressed protein (RefSeq)	0.2411	13	yqcG
+16863	b2779	1	7023	2904665	2905963	-	eno	phosphopyruvate hydratase (NCBI)	0.5035	31	eno
+16864	b2780	1	7023	2906051	2907688	-	pyrG	CTP synthetase (NCBI)	0.5189	52	pyrG
+1936854	b4443	6	7023	2940718	2940923	+	gcvB	GcvB sRNA gene divergent from gcvA (RefSeq)	0.4272	9	gcvB
+1936857	b2815	5	7023	2945519	2945595	+	metW	tRNA-Met (NCBI)	0.6623	2	metW
+1936858	b2816	5	7023	2945629	2945705	+	metV	tRNA-Met (NCBI)	0.6623	2	metV
+16901	b2820	1	7023	2950483	2954025	-	recB	exonuclease V (RecBCD complex), beta subunit (NCBI)	0.5456	91	recB
+16908	b2827	1	7023	2962383	2963177	-	thyA	thymidylate synthase (NCBI)	0.5107	23	thyA
+16909	b2828	1	7023	2963184	2964059	-	lgt	prolipoprotein diacylglyceryl transferase (NCBI)	0.5285	27	lgt
+16911	b2830	1	7023	2966469	2966999	-	nudH	dinucleoside polyphosphate hydrolase (NCBI)	0.4934	17	rppH
+16927	b2846	1	7023	2985558	2986190	+	yqeH	orf, hypothetical protein (VIMSS)	0.3744	42	yqeH
+16928	b2847	1	7023	2986524	2987333	+	yqeI	predicted transcriptional regulator (NCBI)	0.3963	45	yqeI
+16929	b2848	1	7023	2987326	2987808	+	yqeJ	orf, hypothetical protein (VIMSS)	0.3168	33	yqeJ
+7497362	b4683	1	7023	2987841	2987921	-	yqeL	expressed protein (RefSeq)	0.2593	6	yqeL
+16930	b2849	1	7023	2987957	2988382	-	yqeK	orf, hypothetical protein (VIMSS)	0.3286	27	yqeK
+16931	b2850	7	7023	2988576	2989065	+	ygeF	hypothetical protein (NCBI)	0.3224	35	ygeF
+16932	b2851	1	7023	2989290	2989781	+	ygeG	predicted chaperone (NCBI)	0.3272	41	ygeG
+16933	b2852	1	7023	2990116	2991492	+	ygeH	predictedtranscriptional regulator (NCBI)	0.3471	97	ygeH
+16934	b2853	1	7023	2991660	2991878	+	ygeI	hypothetical protein (NCBI)	0.3379	16	ygeI
+16935	b2854	7	7023	2991961	2992463	+	pbl	orf, hypothetical protein (VIMSS)	0.34	36	pbl
+16937	b2856	7	7023	2992482	2993114	-	ygeK	hypothetical protein (RefSeq)	0.3555	47	ygeL
+1936869	b2858	7	7023	2993336	2994042	-	ygeN	hypothetical protein (NCBI)	0.3098	45	ygeN
+16941	b2860	1	7023	2994394	2995299	-	insD-4	IS2 insertion element transposase InsAB' (NCBI)	0.5508	25	insD4
+16942	b2861	1	7023	2995257	2995622	-	insC	KpLE2 phage-like element; IS2 insertion element repressor InsA (RefSeq)	0.5301	8	insC4
+1936872	b2864	5	7023	2997006	2997079	-	glyU	tRNA-Gly (NCBI)	0.5676	3	glyU
+16970	b2890	1	7023	3031679	3033196	-	lysS	lysine tRNA synthetase, constitutive (NCBI)	0.531	44	lysS
+16971	b2891	1	7023	3033206	3034304	-	prfB	peptide chain release factor RF-2 (NCBI)	0.535	28	prfB
+16974	b2894	1	7023	3036869	3037765	-	xerD	site-specific tyrosine recombinase XerD (NCBI)	0.5307	27	xerD
+16978	b2898	1	7023	3039335	3040315	+	ygfZ	putative global regulator (NCBI)	0.5392	30	ygfZ
+16987	b2907	1	7023	3050362	3051540	-	ubiH	2-octaprenyl-6-methoxyphenyl hydroxylase (NCBI)	0.5954	25	ubiH
+7497364	b4665	1	7023	3054912	3054971	-	ibsC	toxic membrane protein (RefSeq)	0.35	4	ibsC
+16993	b2914	1	7023	3056688	3057347	-	rpiA	ribose-5-phosphate isomerase A (NCBI)	0.5182	16	rpiA
+17004	b2925	1	7023	3068187	3069266	-	fbaA	fructose-bisphosphate aldolase (NCBI)	0.5111	34	fbaA
+17005	b2926	1	7023	3069481	3070644	-	pgk	phosphoglycerate kinase (NCBI)	0.5232	33	pgk
+17013	b2934	1	7023	3076909	3077352	-	cmtB	predicted mannitol-specific enzyme IIA component of PTS (NCBI)	0.4234	21	cmtB
+1936890	b2935	1	7023	3077666	3079657	-	tktA	transketolase 1, thiamin-binding (NCBI)	0.5572	52	tktA
+17021	b2942	1	7023	3084728	3085882	+	metK	S-adenosylmethionine synthetase (NCBI)	0.5325	30	metK
+17028	b2949	1	7023	3091522	3091938	+	yqgF	Holliday junction resolvase-like protein (NCBI)	0.53	12	yqgF
+1936900	b2967	5	7023	3108388	3108463	+	pheV	tRNA-Phe (NCBI)	0.5921	1	pheV
+17060	b2982	1	7023	3128200	3129216	+	insH-9	IS5 transposase and trans-activator (NCBI)	0.5467	13	insH9
+17094	b3018	1	7023	3160766	3161503	-	plsC	1-acyl-sn-glycerol-3-phosphate acyltransferase (NCBI)	0.4946	25	plsC
+17095	b3019	1	7023	3161737	3163995	-	parC	DNA topoisomerase IV subunit A (NCBI)	0.5467	60	parC
+17097	b3021	1	7023	3165873	3166268	-	ygiT	predicted DNA-binding transcriptional regulator (NCBI)	0.4217	15	mqsA
+17102	b3026	1	7023	3168506	3169855	+	qseC	sensory histidine kinase in two-component regulatory system with QseB (NCBI)	0.5304	39	qseC
+17103	b3027	1	7023	3169901	3170233	-	ygiZ	conserved inner membrane protein (NCBI)	0.3423	25	ygiZ
+17106	b3030	1	7023	3171526	3173418	-	parE	DNA topoisomerase IV subunit B (NCBI)	0.5357	59	parE
+17117	b3041	1	7023	3181835	3182488	-	ribB	3,4-dihydroxy-2-butanone 4-phosphate synthase (NCBI)	0.5183	22	ribB
+1936918	b3046	7	7023	3184083	3184111	+	yqiG	predicted outer membrane usher protein (RefSeq)	0.1379	3	yqiG
+17120	b3044	1	7023	3184209	3184574	+	insC	KpLE2 phage-like element; IS2 insertion element repressor InsA (RefSeq)	0.5301	9	insC5
+17121	b3045	1	7023	3184532	3185437	+	insD-5	IS2 insertion element transposase InsAB' (NCBI)	0.5508	25	insD5
+1936920	b4447	6	7023	3192745	3192887	-	rygD	Putative sRNA, function unknown; paralogous to the other QUAD sRNA genes (RefSeq)	0.4825	7	sibD
+7497365	b4664	1	7023	3192788	3192847	+	ibsD	toxic membrane protein (RefSeq)	0.3667	3	ibsD
+3446209	b4611	6	7023	3193121	3193262	-	rygE	Putative sRNA, function unknown; paralogous to the other QUAD sRNA genes (RefSeq)	0.4648	8	sibE
+7497366	b4666	1	7023	3193163	3193222	+	ibsE	toxic membrane protein (RefSeq)	0.3833	3	ibsE
+17132	b3056	1	7023	3199913	3201151	+	cca	fused tRNA nucleotidyl transferase/2'3'-cyclic phosphodiesterase/2'nucleotidase and phosphatase (NCBI)	0.5626	31	cca
+17134	b3058	1	7023	3202243	3202611	-	ygiG	putative kinase (VIMSS)	0.5095	10	folB
+17140	b3064	1	7023	3207552	3208565	-	ygjD	O-sialoglycoprotein endopeptidase (NCBI)	0.5769	32	tsaD
+17141	b3065	1	7023	3208803	3209018	+	rpsU	30S ribosomal protein S21 (NCBI)	0.5185	5	rpsU
+17142	b3066	1	7023	3209129	3210874	+	dnaG	DNA primase (NCBI)	0.5229	55	dnaG
+17143	b3067	1	7023	3211069	3212910	+	rpoD	RNA polymerase sigma factor (NCBI)	0.5299	36	rpoD
+1936922	b3069	5	7023	3213620	3213695	+	ileX	tRNA-Ile (NCBI)	0.5921	2	ileX
+17195	b3121	1	7023	3266437	3267624	+	yhaC	hypothetical protein (NCBI)	0.3182	93	yhaC
+1936941	b3123	6	7023	3268238	3268614	-	rnpB	RNase P RNA component precursor RnpB (NCBI)	0.618	12	rnpB
+1936951	b4449	6	7023	3309247	3309420	+	sraG	unknown RNA (NCBI)	0.4943	8	sraG
+17238	b3165	1	7023	3309437	3309706	-	rpsO	30S ribosomal protein S15 (NCBI)	0.5185	7	rpsO
+17240	b3167	1	7023	3310799	3311200	-	rbfA	ribosome-binding factor A (NCBI)	0.5299	7	rbfA
+17241	b3168	1	7023	3311364	3314036	-	infB	translation initiation factor IF-2 (NCBI)	0.5342	69	infB
+17243	b3170	1	7023	3315576	3316028	-	rimP	conserved protein (RefSeq)	0.4857	15	rimP
+1936953	b3171	5	7023	3316235	3316311	-	metY	tRNA-Met (NCBI)	0.6494	2	metY
+1936955	b3174	5	7023	3320094	3320180	-	leuU	tRNA-Leu (NCBI)	0.5747	5	leuU
+17246	b3175	1	7023	3320195	3320527	-	secG	protein-export membrane protein (NCBI)	0.4955	9	secG
+17247	b3176	1	7023	3320755	3322092	-	glmM	phosphoglucosamine mutase (NCBI)	0.5441	45	glmM
+17248	b3177	1	7023	3322085	3322933	-	folP	7,8-dihydropteroate synthase (VIMSS)	0.5159	21	folP
+17249	b3178	1	7023	3323023	3324957	-	ftsH	protease, ATP-dependent zinc-metallo (NCBI)	0.5359	44	ftsH
+17250	b3179	1	7023	3325057	3325686	-	rlmE	23S rRNA U2552 ribose 2'-O-methyltransferase, SAM-dependent (NCBI)	0.5048	20	rlmE
+17254	b3183	1	7023	3328604	3329776	-	obgE	GTPase involved in cell partioning and DNA repair (NCBI)	0.532	38	obgE
+17256	b3185	1	7023	3330884	3331141	-	rpmA	50S ribosomal protein L27 (NCBI)	0.5	11	rpmA
+17257	b3186	1	7023	3331162	3331473	-	rplU	50S ribosomal protein L21 (NCBI)	0.484	7	rplU
+17258	b3187	1	7023	3331732	3332703	+	ispB	octaprenyl diphosphate synthase (NCBI)	0.5267	32	ispB
+17260	b3189	1	7023	3333257	3334516	-	murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (NCBI)	0.5333	43	murA
+17271	b3200	1	7023	3341402	3341959	+	yhbN	predicted transporter subunit: periplasmic-binding component of ABC superfamily (NCBI)	0.4964	20	lptA
+17272	b3201	1	7023	3341966	3342691	+	yhbG	predicted transporter subunit: ATP-binding component of ABC superfamily (NCBI)	0.5441	16	lptB
+17273	b3202	1	7023	3342739	3344172	+	rpoN	DNA-directed RNA polymerase subunit N (NCBI)	0.5286	38	rpoN
+17289	b3218	1	7023	3363724	3364740	-	insH-10	IS5 transposase and trans-activator (NCBI)	0.5467	13	insH10
+17301	b3230	1	7023	3375837	3376229	-	rpsI	30S ribosomal protein S9 (NCBI)	0.5242	12	rpsI
+17302	b3231	1	7023	3376245	3376673	-	rplM	50S ribosomal protein L13 (NCBI)	0.5058	18	rplM
+17304	b3233	1	7023	3378213	3378611	+	yhcB	orf, hypothetical protein (VIMSS)	0.5439	14	zapG
+17306	b3235	1	7023	3380222	3381289	+	degS	serine endoprotease, periplasmic (NCBI)	0.5272	44	degS
+17319	b3249	1	7023	3396409	3396897	-	mreD	cell wall structural complex MreBCD transmembrane component MreD (NCBI)	0.5133	16	mreD
+17321	b3251	1	7023	3398066	3399109	-	mreB	regulator of ftsI, penicillin binding protein 3, septation function (VIMSS)	0.5431	23	mreB
+17325	b3255	1	7023	3403458	3403928	+	accB	acetyl-CoA carboxylase (NCBI)	0.518	9	accB
+17326	b3256	1	7023	3403939	3405288	+	accC	acetyl-CoA carboxylase (NCBI)	0.5341	42	accC
+17331	b3261	1	7023	3409293	3409589	+	fis	DNA-binding protein Fis (NCBI)	0.4714	12	fis
+1936978	b3272	4	7023	3421445	3421564	-	rrfF	5S ribosomal RNA (NCBI)	0.6167	4	rrfF
+1936979	b3273	5	7023	3421602	3421677	-	thrV	tRNA-Thr (NCBI)	0.5658	3	thrV
+1936980	b3274	4	7023	3421690	3421809	-	rrfD	5S ribosomal RNA (NCBI)	0.6417	4	rrfD
+1936981	b3275	2	7023	3421902	3424805	-	rrlD	23S ribosomal RNA (NCBI)	0.5334	117	rrlD
+1936982	b3276	5	7023	3424980	3425055	-	alaU	tRNA-Ala (NCBI)	0.6316	2	alaU
+1936983	b3277	5	7023	3425098	3425174	-	ileU	tRNA-Ile (NCBI)	0.5714	3	ileU
+1936984	b3278	3	7023	3425243	3426784	-	rrsD	16S ribosomal RNA (NCBI)	0.5454	51	rrsD
+17345	b3282	1	7023	3428865	3429437	-	yrdC	predicted ribosome maturation factor (NCBI)	0.5218	14	tsaC
+17349	b3287	1	7023	3431712	3432221	+	def	peptide deformylase (NCBI)	0.4627	19	def
+17350	b3288	1	7023	3432236	3433183	+	fmt	methionyl-tRNA formyltransferase (NCBI)	0.5285	22	fmt
+17352	b3290	1	7023	3434540	3435916	+	trkA	potassium transporter peripheral membrane component (NCBI)	0.5011	52	trkA
+17357	b3294	1	7023	3437638	3438021	-	rplQ	50S ribosomal protein L17 (NCBI)	0.5365	13	rplQ
+17358	b3295	1	7023	3438062	3439051	-	rpoA	DNA-directed RNA polymerase subunit alpha (NCBI)	0.5222	33	rpoA
+17359	b3296	1	7023	3439077	3439697	-	rpsD	30S ribosomal protein S4 (NCBI)	0.5072	24	rpsD
+17360	b3297	1	7023	3439731	3440120	-	rpsK	30S ribosomal protein S11 (NCBI)	0.5154	10	rpsK
+17361	b3298	1	7023	3440137	3440493	-	rpsM	30S ribosomal protein S13 (NCBI)	0.5182	9	rpsM
+17362	b3299	1	7023	3440640	3440756	-	rpmJ	50S ribosomal protein L36 (NCBI)	0.4786	4	rpmJ
+17363	b3300	1	7023	3440788	3442119	-	secY	protein translocase subunit SecY (NCBI)	0.497	56	secY
+17364	b3301	1	7023	3442127	3442561	-	rplO	50S ribosomal protein L15 (NCBI)	0.5356	18	rplO
+17365	b3302	1	7023	3442565	3442744	-	rpmD	50S ribosomal protein L30 (NCBI)	0.5	6	rpmD
+17366	b3303	1	7023	3442748	3443251	-	rpsE	30S ribosomal protein S5 (NCBI)	0.502	21	rpsE
+17367	b3304	1	7023	3443266	3443619	-	rplR	50S ribosomal protein L18 (NCBI)	0.5367	13	rplR
+17368	b3305	1	7023	3443629	3444162	-	rplF	50S ribosomal protein L6 (NCBI)	0.5206	21	rplF
+17369	b3306	1	7023	3444175	3444567	-	rpsH	30S ribosomal protein S8 (NCBI)	0.5013	14	rpsH
+17370	b3307	1	7023	3444601	3444906	-	rpsN	30S ribosomal protein S14 (NCBI)	0.5261	9	rpsN
+17371	b3308	1	7023	3444921	3445460	-	rplE	50S ribosomal protein L5 (NCBI)	0.4981	18	rplE
+17372	b3309	1	7023	3445475	3445789	-	rplX	50S ribosomal protein L24 (NCBI)	0.4603	14	rplX
+17373	b3310	1	7023	3445800	3446171	-	rplN	50S ribosomal protein L14 (NCBI)	0.5108	12	rplN
+17374	b3311	1	7023	3446336	3446590	-	rpsQ	30S ribosomal protein S17 (NCBI)	0.4745	8	rpsQ
+17375	b3312	1	7023	3446590	3446781	-	rpmC	50S ribosomal protein L29 (NCBI)	0.5417	3	rpmC
+17376	b3313	1	7023	3446781	3447191	-	rplP	50S ribosomal protein L16 (NCBI)	0.5182	13	rplP
+17377	b3314	1	7023	3447204	3447905	-	rpsC	30S ribosomal protein S3 (NCBI)	0.51	32	rpsC
+17378	b3315	1	7023	3447923	3448255	-	rplV	50S ribosomal protein L22 (NCBI)	0.4985	8	rplV
+17379	b3316	1	7023	3448270	3448548	-	rpsS	30S ribosomal protein S19 (NCBI)	0.4875	8	rpsS
+17380	b3317	1	7023	3448565	3449386	-	rplB	50S ribosomal protein L2 (NCBI)	0.5268	27	rplB
+17381	b3318	1	7023	3449404	3449706	-	rplW	50S ribosomal protein L23 (NCBI)	0.4818	10	rplW
+17382	b3319	1	7023	3449703	3450308	-	rplD	50S ribosomal protein L4 (NCBI)	0.5297	13	rplD
+17383	b3320	1	7023	3450319	3450948	-	rplC	50S ribosomal protein L3 (NCBI)	0.5143	27	rplC
+17384	b3321	1	7023	3450981	3451292	-	rpsJ	30S ribosomal protein S10 (NCBI)	0.5545	2	rpsJ
+17402	b3339	1	7023	3468167	3469351	-	tufA	protein chain elongation factor EF-Tu (duplicate of tufB) (NCBI)	0.5325	34	tufA
+17403	b3340	1	7023	3469422	3471536	-	fusA	elongation factor EF-2 (NCBI)	0.5083	66	fusA
+17404	b3341	1	7023	3471564	3472103	-	rpsG	30S ribosomal protein S7 (NCBI)	0.5019	24	rpsG
+17405	b3342	1	7023	3472200	3472574	-	rpsL	30S ribosomal protein S12 (NCBI)	0.5333	16	rpsL
+17406	b3343	1	7023	3472700	3472987	-	yheL	predicted intracellular sulfur oxidation protein (NCBI)	0.5035	12	tusB
+17407	b3344	1	7023	3472995	3473354	-	yheM	hypothetical protein (NCBI)	0.5028	11	tusC
+17408	b3345	1	7023	3473354	3473740	-	yheN	hypothetical protein (NCBI)	0.553	14	tusD
+17420	b3357	1	7023	3484142	3484774	+	crp	DNA-binding transcriptional dual regulator (NCBI)	0.4945	16	crp
+17447	b3384	1	7023	3510656	3511660	-	trpS	tryptophanyl-tRNA synthetase (NCBI)	0.5204	34	trpS
+17449	b3386	1	7023	3512404	3513081	-	rpe	ribulose-phosphate 3-epimerase (NCBI)	0.5103	20	rpe
+17468	b3405	1	7023	3533887	3534606	-	ompR	osmolarity response regulator (NCBI)	0.5514	19	ompR
+17495	b3433	1	7023	3571798	3572901	-	asd	aspartate-semialdehyde dehydrogenase (NCBI)	0.5417	35	asd
+17503	b3442	1	7023	3579886	3581064	+	yhhZ	hypothetical protein (NCBI)	0.3401	98	yhhZ
+17505	b3444	1	7023	3581506	3581781	+	insA-6	IS1 repressor protein InsA (NCBI)	0.529	9	insA6
+17506	b3445	1	7023	3581700	3582203	+	insB-6	IS1 transposase InsAB' (NCBI)	0.5456	16	insB6
+3446212	b4612	1	7023	3582427	3582582	+	yrhD	hypothetical protein (RefSeq)	0.3269	13	yrhD
+17522	b3461	1	7023	3597952	3598806	-	rpoH	RNA polymerase sigma factor (NCBI)	0.5415	19	rpoH
+17524	b3463	1	7023	3600102	3600770	-	ftsE	predicted transporter subunit: ATP-binding component of ABC superfamily (NCBI)	0.5635	18	ftsE
+17525	b3464	1	7023	3600773	3602266	-	ftsY	fused Signal Recognition Particle (SRP) receptor: membrane binding protein/conserved protein (NCBI)	0.5348	28	ftsY
+17531	b3470	1	7023	3606774	3607019	-	yhhP	cell developmental protein SirA (NCBI)	0.5366	8	tusA
+17544	b3483	1	7023	3621422	3621805	+	yhhH	orf, hypothetical protein (VIMSS)	0.3333	31	yhhH
+1937031	b4552	7	7023	3621910	3622260	+	yrhC	NA	0.3533	26	yrhC
+3446214	b4660	7	7023	3630875	3632481	-	yhiL	NA	0.3491	126	yhiL
+17565	b3504	7	7023	3649314	3650054	+	yhiS	hypothetical protein (RefSeq)	0.3522	49	yhiS
+17566	b3505	1	7023	3650205	3651221	-	insH-11	IS5 transposase and trans-activator (NCBI)	0.5467	13	insH11
+12785252	b4704	6	7023	3656009	3656077	-	arrS	Antisense sRNA ArrS, function unknown (NCBI)	0.3913	3	arrS
+17616	b3556	1	7023	3718072	3718284	+	cspA	major cold shock protein (NCBI)	0.4836	6	cspA
+1937055	b4455	1	7023	3718471	3718623	-	hokA	toxic polypeptide, small (NCBI)	0.3529	9	hokA
+3446217	b4647	7	7023	3718471	3718655	-	mokA	NA	0.3784	11	mokA
+17620	b3559	1	7023	3720351	3722420	-	glyS	glycyl-tRNA synthetase subunit beta (NCBI)	0.5541	52	glyS
+17621	b3560	1	7023	3722430	3723341	-	glyQ	glycyl-tRNA synthetase subunit alpha (NCBI)	0.5614	26	glyQ
+17657	b3596	1	7023	3766200	3766661	+	yibG	hypothetical protein (NCBI)	0.3225	31	yibG
+3446227	b4651	7	7023	3766915	3766998	+	yibW	NA	0.3095	8	yibW
+3446228	b4615	7	7023	3767368	3767806	+	yibV	hypothetical protein, no homologs (RefSeq)	0.3349	38	yibV
+17668	b3607	1	7023	3779764	3780585	-	cysE	serine acetyltransferase (NCBI)	0.5353	23	cysE
+17669	b3608	1	7023	3780665	3781684	-	gpsA	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase (NCBI)	0.5676	24	gpsA
+17674	b3613	1	7023	3784861	3786120	+	yibP	putative membrane protein (VIMSS)	0.5706	26	envC
+17682	b3621	1	7023	3794002	3794961	+	rfaC	ADP-heptose:LPS heptosyl transferase I (NCBI)	0.5104	36	waaC
+17694	b3633	1	7023	3806563	3807840	+	kdtA	3-deoxy-D-manno-octulosonic-acid transferase (NCBI)	0.5391	48	waaA
+17695	b3634	1	7023	3807848	3808327	+	coaD	phosphopantetheine adenylyltransferase (NCBI)	0.5271	13	coaD
+17698	b3637	1	7023	3809461	3809697	-	rpmB	50S ribosomal protein L28 (NCBI)	0.5316	8	rpmB
+17700	b3639	1	7023	3810754	3811974	+	dfp	flavoprotein affecting synthesis of DNA and pantothenate metabolism (VIMSS)	0.5364	42	dfp
+17701	b3640	1	7023	3811955	3812410	+	dut	deoxyuridine 5'-triphosphate nucleotidohydrolase (NCBI)	0.5461	12	dut
+17709	b3648	1	7023	3819451	3820074	+	gmk	guanylate kinase (NCBI)	0.4904	22	gmk
+3446233	b4616	6	7023	3851141	3851280	-	istR	sRNAs IstR-1 and IstR-2, tisB regulators (RefSeq)	0.5071	5	istR
+1937098	b3699	1	7023	3875728	3878142	-	gyrB	DNA gyrase subunit B (NCBI)	0.54990000000000006	61	gyrB
+17760	b3701	1	7023	3879244	3880344	-	dnaN	DNA polymerase III subunit beta (NCBI)	0.5422	25	dnaN
+17761	b3702	1	7023	3880349	3881752	-	dnaA	chromosomal replication initiation protein (NCBI)	0.5406	42	dnaA
+17762	b3703	1	7023	3882359	3882499	+	rpmH	50S ribosomal protein L34 (NCBI)	0.5177	5	rpmH
+17763	b3704	1	7023	3882516	3882875	+	rnpA	ribonuclease P (NCBI)	0.5583	8	rnpA
+17765	b3705	1	7023	3883099	3884745	+	yidC	inner membrane protein translocase component YidC (NCBI)	0.5367	48	yidC
+17767	b3707	1	7023	3886458	3886532	+	tnaC	tryptophanase leader peptide (NCBI)	0.3467	4	tnaC
+17784	b3724	1	7023	3904876	3905601	-	phoU	negative regulator of PhoR/PhoB two-component regulator (NCBI)	0.5262	24	phoU
+17785	b3725	1	7023	3905616	3906389	-	pstB	phosphate transporter subunit (NCBI)	0.5233	19	pstB
+17789	b3729	1	7023	3909862	3911691	-	glmS	D-fructose-6-phosphate amidotransferase (NCBI)	0.5355	49	glmS
+17790	b3730	1	7023	3911853	3913223	-	glmU	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase (NCBI)	0.5266	41	glmU
+17791	b3731	1	7023	3913576	3913995	-	atpC	F0F1 ATP synthase subunit epsilon (NCBI)	0.5524	11	atpC
+17792	b3732	1	7023	3914016	3915398	-	atpD	F0F1 ATP synthase subunit beta (NCBI)	0.5474	47	atpD
+17793	b3733	1	7023	3915425	3916288	-	atpG	F0F1 ATP synthase subunit gamma (NCBI)	0.5347	24	atpG
+17794	b3734	1	7023	3916339	3917880	-	atpA	F0F1 ATP synthase subunit alpha (NCBI)	0.5337	50	atpA
+17795	b3735	1	7023	3917893	3918426	-	atpH	F0F1 ATP synthase subunit delta (NCBI)	0.5187	13	atpH
+17796	b3736	1	7023	3918441	3918911	-	atpF	F0F1 ATP synthase subunit B (NCBI)	0.5287	10	atpF
+17797	b3737	1	7023	3918973	3919212	-	atpE	F0F1 ATP synthase subunit C (NCBI)	0.5417	8	atpE
+17798	b3738	1	7023	3919259	3920074	-	atpB	F0F1 ATP synthase subunit A (NCBI)	0.5025	22	atpB
+17801	b3741	1	7023	3921767	3923656	-	gidA	glucose-inhibited division protein A (NCBI)	0.5439	58	mnmG
+1937109	b3756	3	7023	3939831	3941372	+	rrsC	16S ribosomal RNA (NCBI)	0.5441	54	rrsC
+1937110	b3757	5	7023	3941458	3941533	+	gltU	tRNA-Glu (NCBI)	0.6447	3	gltU
+1937111	b3758	2	7023	3941727	3944630	+	rrlC	23S ribosomal RNA (NCBI)	0.5331	115	rrlC
+1937112	b3759	4	7023	3944723	3944842	+	rrfC	5S ribosomal RNA (NCBI)	0.6417	4	rrfC
+7497369	b4669	1	7023	3948530	3948580	+	ilvX	expressed protein (RefSeq)	0.3725	1	ilvX
+17834	b3783	1	7023	3964440	3965699	+	rho	transcription termination factor Rho (NCBI)	0.5032	40	rho
+17845	b3793	1	7023	3976624	3977976	+	wzyE	putative enterobacterial common antigen polymerase (NCBI)	0.524	43	wzyE
+1937133	b3796	5	7023	3980398	3980474	+	argX	tRNA-Arg (NCBI)	0.6753	1	argX
+1937134	b3797	5	7023	3980532	3980608	+	hisR	tRNA-His (NCBI)	0.5325	3	hisR
+1937135	b3798	5	7023	3980629	3980715	+	leuT	tRNA-Leu (NCBI)	0.6092	4	leuT
+1937136	b3799	5	7023	3980758	3980834	+	proM	tRNA-Pro (NCBI)	0.6234	1	proM
+17852	b3804	1	7023	3987111	3987851	-	hemD	uroporphyrinogen-III synthetase (NCBI)	0.529	23	hemD
+1937139	b3805	1	7023	3987848	3988789	-	hemC	porphobilinogen deaminase (NCBI)	0.5616	28	hemC
+17858	b3809	1	7023	3992785	3993609	+	dapF	diaminopimelate epimerase (VIMSS)	0.5515	22	dapF
+17860	b3811	1	7023	3994310	3995206	+	xerC	site-specific tyrosine recombinase XerC (NCBI)	0.5396	22	xerC
+17866	b3818	1	7023	4000836	4001216	-	yigG	orf, hypothetical protein (VIMSS)	0.3281	28	yigG
+1937152	b3833	1	7023	4016878	4017633	+	ubiE	ubiquinone/menaquinone biosynthesis methyltransferase (NCBI)	0.5212	19	ubiE
+17883	b3835	1	7023	4018249	4019889	+	ubiB	putative ubiquinone biosynthesis protein UbiB (NCBI)	0.4997	53	ubiB
+17886	b3839	1	7023	4020759	4021535	+	tatC	TatABCE protein translocation system subunit (NCBI)	0.5161	24	tatC
+17889	b3843	1	7023	4023011	4024504	+	ubiD	3-octaprenyl-4-hydroxybenzoate decarboxylase (NCBI)	0.5382	49	ubiD
+17896	b3850	1	7023	4032631	4033176	+	hemG	protoporphyrin oxidase, flavoprotein (NCBI)	0.5183	16	hemG
+1937159	b3851	3	7023	4033554	4035095	+	rrsA	16S ribosomal RNA (NCBI)	0.5435	55	rrsA
+1937160	b3852	5	7023	4035164	4035240	+	ileT	tRNA-Ile (NCBI)	0.5714	2	ileT
+1937161	b3853	5	7023	4035283	4035358	+	alaT	tRNA-Ala (NCBI)	0.6316	1	alaT
+1937162	b3854	2	7023	4035542	4038446	+	rrlA	23S ribosomal RNA (NCBI)	0.5325	117	rrlA
+1937163	b3855	4	7023	4038540	4038659	+	rrfA	5S ribosomal RNA (NCBI)	0.625	4	rrfA
+17904	b3863	1	7023	4044989	4047775	+	polA	DNA polymerase I (NCBI)	0.5196	76	polA
+17905	b3865	1	7023	4048156	4048788	-	yihA	GTP-binding protein (RefSeq)	0.5166	16	yihA
+1937180	b3903	1	7023	4092746	4094005	-	rhaA	L-rhamnose isomerase (NCBI)	0.5611	27	rhaA
+17944	b3904	1	7023	4094002	4095471	-	rhaB	rhamnulokinase (NCBI)	0.5476	43	rhaB
+17958	b3919	1	7023	4108763	4109530	-	tpiA	triosephosphate isomerase (NCBI)	0.526	19	tpiA
+17975	b3936	1	7023	4125036	4125248	+	rpmE	50S ribosomal subunit protein L31 (NCBI)	0.493	6	rpmE
+17977	b3938	1	7023	4126101	4126418	-	metJ	transcriptional repressor protein MetJ (NCBI)	0.5189	7	metJ
+18006	b3967	1	7023	4163451	4164308	+	murI	glutamate racemase, required for biosynthesis of D-glutamate and peptidoglycan (VIMSS)	0.5152	30	murI
+1937193	b3968	3	7023	4164682	4166223	+	rrsB	16S ribosomal RNA (NCBI)	0.5441	54	rrsB
+1937194	b3969	5	7023	4166395	4166470	+	gltT	tRNA-Glu (NCBI)	0.6447	3	gltT
+1937195	b3970	2	7023	4166664	4169567	+	rrlB	23S ribosomal RNA (NCBI)	0.5341	116	rrlB
+1937196	b3971	4	7023	4169660	4169779	+	rrfB	5S ribosomal RNA (NCBI)	0.6333	4	rrfB
+18007	b3972	1	7023	4170080	4171108	+	murB	UDP-N-acetylenolpyruvoylglucosamine reductase (NCBI)	0.4597	47	murB
+18009	b3974	1	7023	4172099	4173049	-	coaA	pantothenate kinase (NCBI)	0.4406	43	coaA
+1937197	b3976	5	7023	4173411	4173486	+	thrU	tRNA-Thr (NCBI)	0.5132	5	thrU
+1937199	b3978	5	7023	4173696	4173770	+	glyT	tRNA-Gly (NCBI)	0.5733	4	glyT
+1937200	b3979	5	7023	4173777	4173852	+	thrT	tRNA-Thr (NCBI)	0.5395	3	thrT
+18011	b3980	1	7023	4173967	4175151	+	tufB	protein chain elongation factor EF-Tu (duplicate of tufA) (NCBI)	0.5342	33	tufB
+18012	b3981	1	7023	4175381	4175764	+	secE	translocase (NCBI)	0.5495	13	secE
+18013	b3982	1	7023	4175766	4176311	+	nusG	transcription antitermination protein NusG (NCBI)	0.5165	14	nusG
+18014	b3983	1	7023	4176470	4176898	+	rplK	50S ribosomal protein L11 (NCBI)	0.5221	11	rplK
+18015	b3984	1	7023	4176902	4177606	+	rplA	50S ribosomal protein L1 (NCBI)	0.5163	24	rplA
+18016	b3985	1	7023	4178019	4178516	+	rplJ	50S ribosomal protein L10 (NCBI)	0.5241	13	rplJ
+18017	b3986	1	7023	4178583	4178948	+	rplL	50S ribosomal protein L7/L12 (NCBI)	0.4617	11	rplL
+18018	b3987	1	7023	4179268	4183296	+	rpoB	DNA-directed RNA polymerase subunit beta (NCBI)	0.5262	125	rpoB
+18019	b3988	1	7023	4183373	4187596	+	rpoC	DNA-directed RNA polymerase subunit beta' (NCBI)	0.5384	134	rpoC
+7497371	b4691	6	7023	4188350	4188510	-	sroH	Novel sRNA, function unknown (RefSeq)	0.4534	4	sroH
+18029	b3997	1	7023	4195739	4196803	+	hemE	uroporphyrinogen decarboxylase (NCBI)	0.5606	30	hemE
+1937207	b4007	3	7023	4206170	4207711	+	rrsE	16S ribosomal RNA (NCBI)	0.5441	54	rrsE
+1937208	b4008	5	7023	4207797	4207872	+	gltV	tRNA-Glu (NCBI)	0.6447	3	gltV
+1937209	b4009	2	7023	4208066	4210969	+	rrlE	23S ribosomal RNA (NCBI)	0.5341	116	rrlE
+1937210	b4010	4	7023	4211063	4211182	+	rrfE	5S ribosomal RNA (NCBI)	0.6333	4	rrfE
+18066	b4038	7	7023	4248726	4248908	+	yjbI	hypothetical protein (NCBI)	0.3005	16	yjbI
+18068	b4040	1	7023	4251039	4251911	+	ubiA	4-hydroxybenzoate octaprenyltransferase (NCBI)	0.5178	28	ubiA
+18071	b4043	1	7023	4255138	4255746	+	lexA	LexA repressor (NCBI)	0.5189	17	lexA
+18075	b4047	1	7023	4258344	4258598	+	yjbL	hypothetical protein (NCBI)	0.2863	24	yjbL
+18080	b4052	1	7023	4262337	4263752	+	dnaB	replicative DNA helicase (NCBI)	0.5381	39	dnaB
+3446237	b4621	1	7023	4266832	4267035	-	yjbS	hypothetical protein (RefSeq)	0.2843	15	yjbS
+18087	b4059	1	7023	4272148	4272684	+	ssb	single-strand DNA-binding protein (NCBI)	0.581	13	ssb
+1937218	b4459	6	7023	4275950	4276089	-	ryjA	unknown RNA (NCBI)	0.5214	3	ryjA
+18094	b4066	1	7023	4279806	4281098	-	yjcF	hypothetical protein (NCBI)	0.3295	103	yjcF
+12785253	b4703	1	7023	4330139	4330228	+	pmrR	predicted regulator of BasS activity, membrane protein (NCBI)	0.4222	5	pmrR
+18156	b4128	1	7023	4350607	4350903	+	yjdK	hypothetical protein (NCBI)	0.3502	16	ghoS
+1937229	b4134	5	7023	4360574	4360649	-	pheU	tRNA-Phe (NCBI)	0.5921	2	pheU
+18170	b4142	1	7023	4368711	4369004	+	groS	co-chaperonin GroES (NCBI)	0.4864	6	groS
+18171	b4143	1	7023	4369048	4370694	+	GroEL	chaperonin GroEL (NCBI)	0.5288	45	groL
+18175	b4147	1	7023	4373722	4374288	+	efp	elongation factor P (NCBI)	0.4938	21	efp
+18183	b4155	1	7023	4380666	4381643	+	yjeA	putative lysyl-tRNA synthetase (VIMSS)	0.5266	31	epmA
+18189	b4161	1	7023	4388480	4389532	-	yjeQ	orf, hypothetical protein (VIMSS)	0.5394	32	rsgA
+18190	b4162	1	7023	4389627	4390172	+	yjeR	orf, hypothetical protein (VIMSS)	0.5403	14	orn
+1937242	b4164	5	7023	4390495	4390570	+	glyX	tRNA-Gly (NCBI)	0.6053	1	glyX
+1937243	b4165	5	7023	4390606	4390681	+	glyY	tRNA-Gly (NCBI)	0.6053	1	glyY
+7497372	b4670	1	7023	4390915	4390968	+	yjeV	expressed protein (RefSeq)	0.4074	2	yjeV
+18193	b4168	1	7023	4393608	4394069	+	yjeE	ATPase with strong ADP affinity (NCBI)	0.5238	21	tsaE
+18197	b4172	1	7023	4398311	4398619	+	hfq	RNA-binding protein Hfq (NCBI)	0.4887	12	hfq
+18202	b4177	1	7023	4402710	4404008	+	purA	adenylosuccinate synthetase (NCBI)	0.5389	41	purA
+18225	b4200	1	7023	4423141	4423536	+	rpsF	30S ribosomal protein S6 (NCBI)	0.5253	9	rpsF
+18227	b4202	1	7023	4423862	4424089	+	rpsR	30S ribosomal protein S18 (NCBI)	0.5263	11	rpsR
+18251	b4226	1	7023	4447145	4447675	-	ppa	inorganic pyrophosphatase (NCBI)	0.5122	12	ppa
+18264	b4239	1	7023	4461077	4462732	-	treC	trehalose-6-P hydrolase (NCBI)	0.5308	51	treC
+18283	b4258	1	7023	4479005	4481860	-	valS	valyl-tRNA synthetase (NCBI)	0.5459	77	valS
+18284	b4259	1	7023	4481860	4482303	-	holC	DNA polymerase III subunit chi (NCBI)	0.5405	13	holC
+18286	b4261	1	7023	4484241	4485341	+	yjgP	conserved inner membrane protein (NCBI)	0.5477	29	lptF
+18287	b4262	1	7023	4485341	4486423	+	yjgQ	orf, hypothetical protein (VIMSS)	0.5429	31	lptG
+18296	b4272	1	7023	4496295	4496660	+	insC	KpLE2 phage-like element; IS2 insertion element repressor InsA (RefSeq)	0.5301	9	insC6
+18297	b4273	1	7023	4496618	4497523	+	insD-6	KpLE2 phage-like element; IS2 insertion element transposase InsAB' (NCBI)	0.5508	25	insD6
+18303	b4279	1	7023	4502081	4503298	+	yjhB	putative transport protein (VIMSS)	0.3629	80	nanX
+18308	b4284	1	7023	4505489	4506640	-	insI-3	KpLE2 phage-like element; IS30 transposase (NCBI)	0.4583	53	insI3
+18369	b4345	1	7023	4574935	4575981	-	mcrC	5-methylcytosine-specific restriction enzyme McrBC, subunit McrC (NCBI)	0.3744	67	mcrC
+18385	b4361	1	7023	4598261	4598998	-	dnaC	DNA biosynthesis protein (NCBI)	0.5054	20	dnaC
+18386	b4362	1	7023	4599001	4599540	-	dnaT	primosomal protein I (NCBI)	0.5704	11	dnaT
+18393	b4372	1	7023	4605826	4606239	+	holD	DNA polymerase III subunit psi (NCBI)	0.5773	7	holD
+18422	b4401	1	7023	4637613	4638329	-	arcA	DNA-binding response regulator in two-component regulatory system with ArcB or CpxA (NCBI)	0.5105	18	arcA
+18423	b4402	1	7023	4638425	4638565	+	yjjY	hypothetical protein (NCBI)	0.4255	4	yjjY
