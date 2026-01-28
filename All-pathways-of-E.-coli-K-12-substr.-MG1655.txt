@@ -1,0 +1,464 @@
+Pathways	Genes of pathway
+superpathway of fatty acid biosynthesis I (E. coli)	fabD // accD // accA // fabH // fabA // fabZ // fabG // fabB // fabF // fabI // acpP
+superpathway of pyrimidine ribonucleosides salvage	rihC // rihA // rihB // cdd // udk // upp // pyrH // pyrG // cmk // ndk // adk
+fatty acid biosynthesis initiation III	fabF // fabB // acpP
+palmitate biosynthesis II (type II fatty acid synthase)	fabF // fabB // fabG // fabZ // fabI // acpP
+superpathway of <i>N</i>-acetylglucosamine, <i>N</i>-acetylmannosamine and <i>N</i>-acetylneuraminate degradation	nagB // nagA // nanE // nanK // nanM // nanQ // nanA
+guanosine ribonucleotides <i>de novo</i> biosynthesis	guaB // guaA // gmk // ndk // adk
+monocistronic leuX tRNA processing	rnb // rnpA // rnpB // rbn // rnd // rnt // rph // pnp
+L-glutamine biosynthesis I	glnA
+pentose phosphate pathway	talB // talA // tktA // tktB // rpe // rpiB // rpiA // pgl // zwf // gnd
+superpathway of glycol metabolism and degradation	gcl // garK // glxK // glcB // glcF // glcE // glcD // aldA // fucO
+heme <i>b</i> biosynthesis V (aerobic)	hemE // hemH // hemF // hemG
+acetate and ATP formation from acetyl-CoA I	ackA // pta // eutD
+GlrKR Two-Component Signal Transduction System	glrR // glrK
+<i>bis</i>(guanylyl molybdopterin) cofactor sulfurylation	fdhD // iscS
+lipoate biosynthesis and incorporation I	lipA // lipB // fdx // acpP
+L-arginine degradation II (AST pathway)	astA // astB // astC // astD // astE
+pyrimidine ribonucleosides salvage I	cdd // udk
+formate to trimethylamine <i>N</i>-oxide electron transfer	fdnG // fdnH // fdnI // fdoI // fdoH // fdoG // torA // torC
+2-carboxy-1,4-naphthoquinol biosynthesis	menE // menC // menF // menD // menH // menB // menI
+palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)	fabF // fabI // fabZ // fabA // fabG // fabB // tesA // acpP
+AtoSC Two-Component Signal Transduction System	atoC // atoS
+allantoin degradation IV (anaerobic)	allB // allC // allE // allW // fdrA // allD // carA // carB // ybcF
+glycerol degradation V	gldA // dhaM // dhaL // dhaK
+tRNA charging	argS // cysS // glnS // gltX // ileS // leuS // valS // alaS // asnS // aspS // tyrS // trpS // thrS // serS // proS // pheT // pheS // lysU // lysS // hisS // glyQ // glyS // metG // argW // argX // argU // argY // argV // argQ // argZ // cysT // glnW // glnU // glnV // glnX // gltV // gltW // gltT // gltU // ileX // ileY // ileT // ileU // ileV // leuP // leuW // leuU // leuV // leuQ // leuT // leuZ // leuX // valZ // valX // valV // valT // valY // valW // valU // alaW // alaU // alaT // alaV // alaX // asnW // asnT // asnV // asnU // aspV // aspT // aspU // tyrV // tyrT // tyrU // trpT // thrW // thrU // thrT // thrV // selC // serW // serT // serV // serX // serU // proM // proL // proK // pheU // pheV // metU // metT // lysT // lysV // lysZ // lysQ // lysW // lysY // hisR // glyV // glyX // glyW // glyT // glyU // glyY // metY // metZ // metV // metW
+UDP-&alpha;-D-glucose biosynthesis	galU // pgm
+hydroxymethylpyrimidine salvage	pdxK // thiD
+malonyl-CoA biosynthesis via biotin-carboxyl carrier protein	birA // accC // accD // accA
+glycerophosphodiester degradation	glpQ // ugpQ // glpD // glpC // glpB // glpA
+(5Z)-dodecenoate biosynthesis I	fabI // fabG // fabB // fabZ // fabA // acpP
+superpathway of <i>S</i>-adenosyl-L-methionine biosynthesis	metK // metA // metE // metB // metH // metC // malY // lysC // asd // thrA // metL
+L-tryptophan degradation II (via pyruvate)	ridA // tnaA
+nitrate reduction IX (dissimilatory)	glpC // glpB // glpA // narI // narH // narG // narV // narZ // narY
+glycolate and glyoxylate degradation I	gcl // garK // glxK // glcF // glcE // glcD // garR
+2-deoxy-&alpha;-D-ribose 1-phosphate degradation	deoB // deoC // eutE // adhE // mhpF
+allantoin degradation to glyoxylate III	allA // allB // allC // allE // allW
+monocistronic tRNA processing I	rne // rnpA // rnpB
+menaquinol-8 biosynthesis	ubiE
+superpathway of unsaturated fatty acids biosynthesis (<i>E. coli</i>)	fabA // tesA // fabF // fabB // fabG // fabZ // fabI // acpP
+L-glutamate degradation IX (via 4-aminobutanoate)	gadA // gadB
+di-<i>trans</i>,poly-<i>cis</i>-undecaprenyl phosphate biosynthesis	ispU // bacA // ybjG // pgpB
+glycolysis II (from fructose 6-phosphate)	pykA // pykF // eno // gpmM // pgk // gapA // tpiA // fbaA // fbaB // pfkB // pfkA // ppsA // phoA // yigL // yidA // hxpA // ybiV // fbp // glpX // ybhA // yggF // gpmA
+superpathway of L-alanine biosynthesis	ilvE // avtA // iscS // alaA // alaC // thiS
+superpathway of hexitol degradation (bacteria)	mtlD // srlD // kbaY // gatY // gatD // gatA // gatB // gatC // pykA // pykF // eno // gpmM // pgk // gapA // tpiA // fbaA // fbaB // pfkB // pfkA // ppsA // phoA // yigL // yidA // hxpA // ybiV // fbp // glpX // ybhA // yggF // gpmA
+cardiolipin biosynthesis I	pgpA // pgpB // pgpC // clsA // clsB // pgsA
+superpathway of D-glucarate and D-galactarate degradation	gudD // garL // garR // garD // garK // glxK
+5-aminoimidazole ribonucleotide biosynthesis I	purF // purD // purN // purL // purM
+UDP-&alpha;-D-glucuronate biosynthesis (from UDP-glucose)	ugd
+polymyxin resistance	arnA // arnB // arnC // arnD // arnT
+superpathway of &beta;-D-glucuronosides degradation	uxuB // uxuA // kdgK // eda // uxaC // uidA
+<i>O</i>-antigen building blocks biosynthesis (<i>E. coli</i>)	glf // rfbC // rfbD // rfbA // rffH // rfbB // glmU // glmS // glmM // kduI // pgi
+UDP-&alpha;-D-galactose biosynthesis	galE
+muropeptide degradation	ldcA // mpaA // ycjG // pepD
+superpathway of phospholipid biosynthesis III (<i>E. coli</i>)	clsA // clsB // pssA // psd // gpsA // plsC // cdsA // plsB // pgsA // pgpA // pgpB // pgpC // clsC // acpP
+PRPP biosynthesis	prs
+BarA UvrY Two-Component Signal Transduction System	uvrY // barA
+2,3-dihydroxybenzoate biosynthesis	entC // entB // entA
+pyrimidine ribonucleosides degradation	cdd // udp // ppnP // deoB
+HprSR Two-Component Signal Transduction System	hprR // hprS
+<i>all-trans</i>-octaprenyl diphosphate biosynthesis	ispB
+NADH to cytochrome <i>bd</i> oxidase electron transfer I	nuoI // nuoG // nuoF // nuoE // nuoC // nuoB // nuoN // nuoM // nuoL // nuoK // nuoJ // nuoH // nuoA // cydH // cydX // cydB // cydA
+L-serine degradation	sdaB // tdcB // sdaA // tdcG // ridA
+L-threonine biosynthesis	thrB // thrC
+TCA cycle I (prokaryotic)	maeA // mdh // fumC // fumB // fumA // fumD // fumE // sucC // sucD // lpd // sucB // sucA // icd // gltA // acnA // acnB // sdhD // sdhC // sdhB // sdhA // mqo
+S-adenosyl-L-methionine biosynthesis	metK
+CMP-3-deoxy-D-<I>manno</I>-octulosonate biosynthesis	kdsB // kdsC // kdsA // kdsD // gutQ
+superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>)	dcd // nrdD // mazG // dut // nudI // thyA // tmk // ndk // adk // nrdF // nrdE // nrdB // nrdA // trxC // trxA // nrdH
+glycerol-3-phosphate to fumarate electron transfer	glpC // glpB // glpA // frdD // frdC // frdB // frdA
+N<sup>6</sup>-L-threonylcarbamoyladenosine<sup>37</sup>-modified tRNA biosynthesis	tsaD // tsaB // tsaE // tsaC // tcdA
+superpathway of methylglyoxal degradation	gloA // gloB // yeiG // gloC // dld // gpr // dkgB // dkgA // yeaE // yqhD // gldA // aldA // lldD
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	folK // folB // nudB // folE
+L-threonine degradation III (to methylglyoxal)	yiaY // tdh // tynA
+cyanate degradation	cynT // cynS
+L-lysine biosynthesis I	dapF // lysA // dapE // argD // serC // dapD // dapA // asd // lysC // dapB
+UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis I (<i>meso</i>-diaminopimelate containing)	murA // murB // murF // murC // murD // murI // murE // ddlA // ddlB
+nitrate reduction VIII (dissimilatory)	nuoI // nuoG // nuoF // nuoE // nuoC // nuoB // nuoN // nuoM // nuoL // nuoK // nuoJ // nuoH // nuoA // narI // narH // narG // narV // narZ // narY
+NAD salvage pathway II (PNC IV cycle)	nadD // pncC // nadE
+cadaverine biosynthesis	cadA // ldcC
+salvage pathways of pyrimidine deoxyribonucleotides	cdd // deoA // ppnP // tdk
+3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation	mhpC // mhpB // mhpA // hcaB // hcaE // hcaF // hcaD // hcaC // mhpD // mhpE // eutE // mhpF
+D-lactate to cytochrome <i>bo</i> oxidase electron transfer	dld // cyoC // cyoB // cyoA // cyoD
+peptidoglycan biosynthesis I (<I>meso</I>-diaminopimelate containing)	murG // mraY // murA // murB // murF // murC // murD // murI // murE // ddlA // ddlB // murJ // ftsW // mrdB // mtgA // pbpC // mrcB // mrcA
+L-alanine biosynthesis III	iscS // thiS
+superpathway of pyrimidine ribonucleotides <i>de novo</i> biosynthesis	carA // carB // pyrI // pyrB // pyrC // pyrE // pyrF // pyrD // pyrH // ndk // adk // pyrG
+superpathway of ornithine degradation	speF // patD // patA // puuD // puuC // puuB // puuA
+QseBC Two-Component Signal Transduction System, quorum sensing related	qseB // qseC
+glucose and glucose-1-phosphate degradation	yigL // yidA // ybiV // yihX // pgm // glk // gcd
+formate to dimethyl sulfoxide electron transfer	fdnG // fdnH // fdnI // fdoI // fdoH // fdoG // dmsC // dmsB // dmsA
+D-fructuronate degradation	uxuB // uxuA // kdgK // eda
+L-homoserine biosynthesis	lysC // asd // thrA // metL
+UDP-<i>N</i>-acetyl-&alpha;-D-mannosamine biosynthesis	wecB
+polyisoprenoid biosynthesis (<i>E. coli</i>)	ispA // ispU // bacA // ybjG // pgpB // ispB
+superpathway of purine deoxyribonucleosides degradation	deoD // add // deoB // deoC // eutE // adhE // mhpF
+cytochrome <i>c</i> biogenesis (system I type)	ccmH // ccmF // ccmG // yidC // secY // secG // secE // yajC // secF // secD // ccmA // ccmB // ccmD // ccmC // trxC // trxA // dsbD // ccmE // torC // nrfA // torY // napC // nrfB // ccp // dsbA
+phenylacetate degradation I (aerobic)	paaH // paaB // paaC // paaA // paaE // paaJ // paaG // paaZ // paaK // paaF
+superpathway of thiamine diphosphate biosynthesis I	thiD // thiC // thiL // thiE // thiG // dxs // thiF // thiH // iscS // fdx // thiS // thiI
+superpathway of glycolysis and the Entner-Doudoroff pathway	eda // edd // crr // ptsG // manX // manY // manZ // gpmA // yigL // yidA // hxpA // ybiV // fbp // glpX // ybhA // yggF // ppsA // kduI // pgi // pfkB // pfkA // fbaA // fbaB // tpiA // gapA // pgk // gpmM // eno // pykA // pykF // zwf // pgl
+ubiquinol-8 biosynthesis (anaerobic)	ubiE // ubiG // ubiD // ubiA // ubiU // ubiV
+glycine biosynthesis I	glyA
+hydrogen to fumarate electron transfer	frdD // frdC // frdB // frdA // hybC // hybO // hybB // hybA
+fructoselysine and psicoselysine degradation	frlB // frlD // frlC
+5-aminoimidazole ribonucleotide biosynthesis II	purF // purD // purL // purM // purT
+EnvZ/OmpR Two-Component Signal Transduction System	envZ // ompR
+adenine and adenosine salvage II	apt // rihC
+ethanol degradation I	adhP // eutE // adhE // mhpF
+taurine degradation IV	tauD
+superpathway of L-tryptophan biosynthesis	aroB // aroG // aroH // aroF // aroC // aroA // aroL // aroK // aroE // aroD // trpC // trpD // trpE // trpA // trpB
+superpathway of L-serine and glycine biosynthesis I	glyA // serC // serB // ydiJ // serA
+propanoyl CoA degradation I	scpA
+superpathway of Kdo<sub>2</sub>-lipid A biosynthesis	lpxB // lpxK // lpxH // lpxD // lpxC // lpxA // kdsB // kdsC // kdsA // kdsD // gutQ // waaA // lpxL // lpxM // waaC // waaF // waaY // waaB // waaO // waaJ // waaU // waaP // waaQ // waaG // acpP
+superpathway of enterobacterial common antigen biosynthesis	rffC // wecE // rfbA // rffH // rffG // wecC // rffM // wecF // wecA // wzxE // wzyE
+heme <i>b</i> biosynthesis II (oxygen-independent)	hemH // hemE // hemN // hemG
+autoinducer AI-2 biosynthesis I	mtn // luxS
+superpathway of tetrahydrofolate biosynthesis	folP // folC // folA // folM // folK // folB // nudB // folE // pabA // pabB // pabC
+chorismate biosynthesis from 3-dehydroquinate	aroC // aroA // aroL // aroK // aroE // aroD
+NAD <i>de novo</i> biosynthesis I	nadD // nadE // nadC // nadA // nadB
+cytidylyl molybdenum cofactor biosynthesis	mocA
+demethylmenaquinol-8 biosynthesis I	menA
+superpathway of fucose and rhamnose degradation	fucA // fucK // fucI // fucU // rhaD // rhaB // rhaA // rhaM // aldA // lldD // fucO
+chemotaxis signal transduction	cheY // cheB // cheA
+PhoQP Two-Component Signal Transduction System, magnesium-dependent	phoP // phoQ
+sulfoquinovosyl diacylglycerides and sulfoquinovosyl glycerol degradation	yihQ
+<i>N</i>-acetylneuraminate and <i>N</i>-acetylmannosamine degradation I	nanE // nanK // nanM // nanQ // nanA
+pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I	mazG // dut // nudI // thyA // tmk // ndk // adk // nrdF // nrdE // nrdB // nrdA // trxC // trxA
+fatty acid &beta;-oxidation I (generic)	fadE // fadA // fadI // fadB // fadJ
+L-idonate degradation	idnO // idnK // idnD
+ketogluconate metabolism	idnO // idnK // idnD // dkgB // dkgA // ghrB
+L-alanine degradation I	malY // metC // alr // dadX // dadA
+L-leucine biosynthesis	leuB // dmlA // ilvE // tyrB // leuA // leuD // leuC
+biotin biosynthesis from 8-amino-7-oxononanoate I	bidA // bioD // bioA // bioB // thiS // fdx
+superpathway of UDP-N-acetyl-&alpha;-D-mannosaminouronate biosynthesis	wecB // wecC
+preQ<sub>0</sub> biosynthesis	folE // queD // queE // queC
+GDP-mannose biosynthesis	kduI // pgi // manA // cpsG // cpsB
+GDP-L-fucose biosynthesis I (from GDP-D-mannose)	gmd // fcl
+L-ascorbate degradation I (bacterial, anaerobic)	ulaE // ulaD // ulaF // ulaG // ulaA // ulaB // ulaC
+superpathway of 5-aminoimidazole ribonucleotide biosynthesis	purN // purF // purD // purL // purM // purT
+DpiBA Two-Component Signal Transduction System	dpiA // dpiB
+pyrimidine deoxyribonucleotides dephosphorylation	mazG // dut // nudI // nudG
+colanic acid (<i>Escherichia coli</i> K12) biosynthesis	wcaJ // wcaI // wcaF // wcaE // wcaC // wcaB // wcaL // wcaK // wzxC // wcaD // wcaA
+ADP-L-<i>glycero</i>-&beta;-D-<i>manno</i>-heptose biosynthesis	hldE // gmhB // rfaD // gmhA
+pyrimidine ribonucleosides salvage III	rihA // rihB // rihC // codA
+bis(guanylyl molybdenum cofactor) biosynthesis	mobA
+gluconeogenesis I	kduI // pgi // yigL // yidA // hxpA // ybiV // fbp // glpX // ybhA // yggF // fbaA // fbaB // gapA // pgk // gpmM // eno // pck // mdh // ppsA // maeA // maeB // tpiA
+NtrBC Two-Component Regulatory System	glnL // glnG
+NADH to cytochrome <i>bo</i> oxidase electron transfer I	nuoI // nuoG // nuoF // nuoE // nuoC // nuoB // nuoN // nuoM // nuoL // nuoK // nuoJ // nuoH // nuoA // cyoC // cyoB // cyoA // cyoD
+D-galactonate degradation	dgoK // dgoA // dgoD
+L-aspartate degradation II (aerobic)	dcuA // glnA // aspA
+superpathway of pyrimidine nucleobases salvage	pyrH // ndk // adk // pyrG // upp
+queuosine biosynthesis I (<i>de novo</i>)	queF // tgt // queA // queG
+guanylyl molybdenum cofactor biosynthesis	mobA
+aminopropylcadaverine biosynthesis	speE // cadA // ldcC // speD
+superpathway of L-threonine metabolism	ltaE // eutE // adhE // mhpF // tynA // yiaY // tdh // kbl // tdcE // pflB // grcA // pta // tdcD // ackA // ilvD // ilvE // ilvC // ilvH // ilvI // ilvM // ilvG // ridA
+pentose phosphate pathway (oxidative branch) I	pgl // zwf // gnd
+glycine degradation	glyA // gcvT // gcvH // gcvP // lpd // sdaB // tdcB // sdaA // tdcG
+proline degradation	putA
+DcuSR Two-Component Signal Transduction System, C<sub>4</sub>-dicarboxylate-dependent	dcuR // dcuS
+L-valine biosynthesis	ilvD // ilvE // ilvC // ilvN // ilvB // ilvM // ilvG // ilvH // ilvI
+polycistronic tRNA processing II	rnt // pcnB // rnc // rph // pnp // rnb // rnpA // rnpB
+thiazole component of thiamine diphosphate biosynthesis I	thiG // dxs // thiF // thiH // iscS // fdx // thiS // thiI
+superpathway of chorismate metabolism	ubiC // ubiF // ubiH // ubiG // ubiI // ubiD // ubiA // ispB // ispA // trpC // trpD // trpE // trpA // trpB // aroB // aroG // aroH // aroF // aroC // aroA // aroL // aroK // aroE // aroD // tyrB // aspC // ilvE // pheA // tyrA // entA // acpT // acpS // serS // thrS // alaS // entE // entD // menE // menC // menD // menH // menB // menI // menA // ubiE // folP // folC // folA // folM // folK // folB // nudB // folE // pabA // pabB // pabC // entB // entF
+L-fucose degradation I	fucA // fucK // fucI // fucU
+lipid A-core biosynthesis (<i>E. coli</i> K-12)	waaC // waaF // waaY // waaB // waaO // waaJ // waaU // waaP // waaQ // waaG
+pseudouridine degradation	psuG // psuK
+NADH to cytochrome <i>bd</i> oxidase electron transfer II	ndh // cydH // cydX // cydB // cydA
+superpathway of guanosine nucleotides <i>de novo</i> biosynthesis II	guaB // guaA // gmk // nrdB // nrdA // nrdD // nrdF // nrdE // ndk // adk // trxC // trxA // nrdH
+molybdenum cofactor biosynthesis	mog // modA // modB // modC // sbp // cysP // cysU // cysW // cysA // moeA
+NiFe(CO)(CN)<sub>2</sub> cofactor biosynthesis	hypD // hypF // hycI // hybD // slyD // hypC // hypE // hycE // hypB // hypA
+NADH to trimethylamine <i>N</i>-oxide electron transfer	nuoI // nuoG // nuoF // nuoE // nuoC // nuoB // nuoN // nuoM // nuoL // nuoK // nuoJ // nuoH // nuoA // torA // torC
+superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass	aceB // aceA // maeA // mdh // fumC // fumB // fumA // fumD // fumE // sucC // sucD // sucB // sucA // icd // gltA // acnA // acnB // sdhD // sdhC // sdhB // sdhA // mqo // crr // ptsG // manX // manY // manZ // gpmA // yigL // yidA // hxpA // ybiV // fbp // glpX // ybhA // yggF // ppsA // kduI // pgi // pfkB // pfkA // fbaA // fbaB // tpiA // gapA // pgk // gpmM // eno // pykA // pykF // lpd // aceF // aceE
+adenine and adenosine salvage III	xapA // deoD // ppnP // yfiH // add // hpt // gpt
+glycerol-3-phosphate to cytochrome <i>bo</i> oxidase electron transfer	glpD // cyoC // cyoB // cyoA // cyoD
+D-galacturonate degradation I	uxaA // kdgK // uxaB // uxaC // eda
+alanine racemization	malY // metC // alr // dadX
+CDP-diacylglycerol biosynthesis II	gpsA // plsC // cdsA // plsB // acpP
+UhpBA Two Component Signal Transduction System	uhpA // uhpB
+L-glutamate degradation II	aspC // aspA
+L-ornithine biosynthesis I	argA // argB // argC // argD // gabT // argE
+chitobiose degradation	chbG // chbF
+adenosine ribonucleotides <i>de novo</i> biosynthesis	purA // purB // adk
+enterobactin biosynthesis	entC // entA // acpT // acpS // serS // thrS // alaS // entE // entD // entB // entF
+galactitol degradation	pfkB // kbaY // gatY // gatD // gatA // gatB // gatC
+ribose phosphorylation	rbsK // fucU // rbsD
+fatty acid elongation -- saturated	fabA // fabZ // fabG // fabB // fabF // fabI // acpP
+succinate to cytochrome <i>bo</i> oxidase electron transfer	sdhD // sdhC // sdhB // sdhA // cyoC // cyoB // cyoA // cyoD
+Kdo transfer to lipid IV<sub>A</sub> (<i>E. coli</i>)	waaA
+L-arginine biosynthesis I (via L-ornithine)	argG // argH // argI // argF // carA // carB // argA // argB // argC // argD // gabT // argE
+NADH to hydrogen peroxide electron transfer	nuoI // nuoG // nuoF // nuoE // nuoC // nuoB // nuoN // nuoM // nuoL // nuoK // nuoJ // nuoH // nuoA // ccp
+arsenic detoxification VI (<i>E. coli</i>)	arsC // pitA // pitB // arsB // pstS // pstC // pstA // pstB // grxC // nrdH // grxB // grxA
+BasSR Two-Component Signal Transduction System	basS // basR
+fatty acid biosynthesis initiation (type II)	fabD // fabH // accD // accA // acpP
+purine ribonucleosides degradation	add // yfiH // deoD // xapA // ppnP // deoB
+glyoxylate cycle	maeA // mdh // aceB // aceA // gltA // acnA // acnB
+polycistronic tRNA processing I	rne // rnpA // rnpB // rbn // rnd // rnt // rph
+guanine and guanosine salvage III	gsk
+salvage pathways of pyrimidine ribonucleotides	upp // ndk // adk // udp // ppnP // cdd // codA // udk // cmk
+L-cysteine degradation III	aspC // sseA // trxA // trxC
+Superpathway of monocistronic tRNA processing (<i>E. coli</i>)	rne // rnb // rnpA // rnpB // rbn // rnd // rph // pnp
+L-threonine degradation I	tdcE // pflB // grcA // pta // tdcD // ackA // tdcB // ridA
+oleate &beta;-oxidation	tesB // fadM // fadD // fadI // fadA // fadE // fadJ // fadB // atoB
+formaldehyde oxidation II (glutathione-dependent)	frmB // yeiG // frmA
+PhoRB Two-Component Signal Transduction System, phosphate-dependent	phoB // phoR
+inosine-5'-phosphate biosynthesis I	purC // purB // purH // purE // purK
+superpathway of adenosine nucleotides <i>de novo</i> biosynthesis II	purA // purB // adk // nrdB // nrdA // nrdF // nrdE // ndk // nrdD // trxC // trxA // nrdH
+hydrogen to trimethylamine N-oxide electron transfer	torA // torC // hybC // hybO // hybB // hybA
+L-arabinose degradation I	araA // araD // araB
+UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis I	glmU // glmS // glmM // kduI // pgi
+ATP biosynthesis	atpD // atpG // atpA // atpH // atpC // atpB // atpF // atpE
+dTDP-L-rhamnose biosynthesis	rfbC // rfbD // rfbA // rffH // rfbB
+L-methionine biosynthesis I	metA // metE // metB // metH // metC // malY
+pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis II	dcd // mazG // dut // nudI // thyA // tmk // ndk // adk // nrdD
+polycistronic tRNA processing IV	rbn // rnd // rnt // rph // rnpA // rnpB // pnp // rnb
+<i>S</i>-methyl-5'-thioadenosine degradation IV	mtn
+melibiose degradation	melA
+mixed acid fermentation	mdh // icd // acnB // gltA // frdD // frdC // frdB // frdA // hycE // hycB // hycG // hycF // hycC // hycD // fdhF // ppc // fumC // fumB // fumA // fumD // fumE // ldhA // pykA // pykF // adhP // eutE // adhE // grcA // tdcE // pflB // ackA // pta // eutD // fdx
+pyrimidine deoxyribonucleotide phosphorylation	tmk // cmk // ndk // adk
+aspartate superpathway	thrB // thrC // aspC // dapF // lysA // dapE // argD // serC // dapD // dapA // asd // lysC // dapB // metA // metE // metB // metH // metC // malY // nadD // nadE // nadC // nadA // nadB // metK
+pyridoxal 5'-phosphate biosynthesis I	pdxH // epd // dxs // pdxJ // pdxB // serC // pdxA
+chorismate biosynthesis I	aroB // aroG // aroH // aroF // aroC // aroA // aroL // aroK // aroE // aroD
+superpathway of L-threonine biosynthesis	lysC // asd // thrA // metL // thrB // thrC // aspC
+5-(methoxycarbonylmethoxy)uridine biosynthesis	cmoB // cmoA // cmoM // trhO // trmL
+sedoheptulose bisphosphate bypass	pfkA // fbaA
+peptidoglycan recycling I	murQ // anmK // nagZ // ampD // amiD // nagA // glmM // glmU // ldcA // mpl // murA // murB // ampG // emtA // mltA // mltB // mltC // mltD // slt // mltF
+folate transformations III (<i>E. coli</i>)	folA // folM // fau // metF // metH // gcvT // gcvH // gcvP // lpd // folD // glyA // thyA
+hydrogen production V	hycE // hycB // hycG // hycF // hycC // hycD // fdhF // fdx
+L-phenylalanine biosynthesis I	tyrB // aspC // ilvE // pheA // tyrA
+superpathway of (Kdo)<SUB>2</SUB>-lipid A biosynthesis (<i>E. coli</i>)	waaA // lpxB // lpxK // lpxH // lpxD // lpxC // lpxA // lpxL // lpxP // lpxM // kdsB // kdsC // kdsA // kdsD // gutQ // acpP
+lactose degradation III	bglX // lacZ
+L-galactonate degradation	lgoD
+superpathway of polyamine biosynthesis I	cadA // ldcC // speE // speD // speC // speA // speB
+CusSR Two-Component Signal Transduction System	cusS // cusR
+4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis I	thiD // thiC
+<i>sn</i>-glycerol 3-phosphate anaerobic respiration	glpD // napA // napB // napH // napG
+nitrate reduction VIIIb (dissimilatory)	ndh // narI // narH // narG
+L-cysteine degradation II	metC // malY // cysK // cysM // tnaA // cyuA // ridA
+formate to nitrite electron transfer	fdnG // fdnH // fdnI // fdoI // fdoH // fdoG // nrfC // nrfD // nrfA
+4-aminobutanoate degradation II	gabT // gabD
+superpathway of ubiquinol-8 biosynthesis (early decarboxylation)	ubiC // ubiF // ubiE // ubiH // ubiG // ubiI // ubiD // ubiA // ispB // ispA
+L-cysteine biosynthesis I	cysE // cysK // cysM
+dTDP-<i>N</i>-acetylthomosamine biosynthesis	rffC // wecE // rfbA // rffH // rfbB // rffG
+methylerythritol phosphate pathway I	dxs // dxr // ispD // ispE // ispF // idi // ispG // ispH // fldA // fldB
+xanthine and xanthosine salvage	gpt // deoD // xapA // ppnP
+glycine cleavage	gcvH // gcvP // lpd // gcvT
+superpathway of histidine, purine, and pyrimidine biosynthesis	hisD // hisC // hisB // hisF // hisH // hisA // hisI // hisG // purF // purD // purL // purM // purT // purC // purH // purE // purK // guaB // guaA // gmk // purA // purB // nrdB // nrdA // nrdF // nrdE // nrdD // carA // carB // pyrI // pyrB // pyrC // pyrE // pyrF // pyrD // pyrH // ndk // adk // pyrG // prs // trxC // trxA // nrdH
+BaeSR Two-Component Signal Transduction System	baeR // baeS
+nitrate reduction III (dissimilatory)	fdnG // fdnH // fdnI // fdoI // fdoH // fdoG // narI // narH // narG // narV // narZ // narY
+L-tryptophan biosynthesis	trpC // trpD // trpE // trpA // trpB
+thiamine diphosphate salvage V	thiM // thiE // thiL
+L-cysteine biosynthesis VII (from <i>S</i>-sulfo-L-cysteine)	cysM // cysE // nrdH // grxC // grxA // grxB
+L-glutamate biosynthesis III	gdhA
+phosphatidylserine and phosphatidylethanolamine biosynthesis I	pssA // psd
+L-ascorbate degradation II (bacterial, aerobic)	lyxK // yiaK // sgbH // sgbU // sgbE
+glycerol-3-phosphate to hydrogen peroxide electron transport	glpC // glpB // glpA // ccp
+tRNA-uridine<sup>34</sup> modifications (<i>E. coli</i>)	mnmC // mnmA // tusD // tusC // tusB // tusA // mnmG // mnmE // selU // tusE // iscS
+L-isoleucine biosynthesis I (from threonine)	ilvD // ilvE // ilvC // ilvH // ilvI // ilvM // ilvG // ilvA // ridA
+L-glutamine degradation I	pyrG // guaA // hisF // hisH // gltB // gltD // pabA // pabB // trpD // trpE // asnB // carA // carB // glsB // glsA
+2-oxoglutarate decarboxylation to succinyl-CoA	lpd // sucB // sucA
+D-galactarate degradation I	garL // garR // garD // garK // glxK
+poly-&beta;-1,6-<i>N</i>-acetyl-D-glucosamine biosynthesis	pgaC // pgaD // pgaB // pgaA
+2-hydroxypenta-2,4-dienoate degradation	mhpD // mhpE // eutE // mhpF
+acetate conversion to acetyl-CoA	acs
+(aminomethyl)phosphonate degradation	phnO // phnI // phnM // phnJ // phnP // phnN // apt // ppa // phoA
+NADH to fumarate electron transfer	nuoI // nuoG // nuoF // nuoE // nuoC // nuoB // nuoN // nuoM // nuoL // nuoK // nuoJ // nuoH // nuoA // frdD // frdC // frdB // frdA
+uroporphyrinogen-III I (from glutamate)	hemD // hemC // hemB // hemL // hemA // gltX // gltV // gltW // gltT // gltU
+superpathway of aromatic amino acid biosynthesis	trpC // trpD // trpE // trpA // trpB // aroB // aroG // aroH // aroF // aroC // aroA // aroL // aroK // aroE // aroD // tyrB // aspC // ilvE // pheA // tyrA
+methylglyoxal degradation I	gloA // gloB // yeiG // gloC // dld
+L-tyrosine biosynthesis I	tyrB // aspC // pheA // tyrA
+NAD salvage pathway I (PNC VI cycle)	nadD // pncB // pncA // nadE
+L-aspartate degradation III (anaerobic)	dcuA // dcuB // aspA // glnA
+superpathway of 4-aminobutanoate degradation	sad // puuC // gabD
+thiamine diphosphate salvage II	thiM // thiE // thiL // pdxK // thiD
+glycine betaine biosynthesis I (Gram-negative bacteria)	betA // betB
+NarQ Two-Component Signal Transduction System, nitrate dependent	narP // narQ // narL
+L-lyxose degradation	rhaA // lyxK // sgbU // araD // sgbE
+purine deoxyribonucleosides degradation I	deoD // add
+L-threonine degradation II	yiaY // tdh // kbl
+adenine and adenosine salvage V	deoD // ppnP // yfiH // add // gsk
+trehalose degradation VI (periplasmic)	treA
+L-glutamate biosynthesis I	gltB // gltD // pabA // pabB // trpD // trpE
+pyrimidine nucleobases salvage I	upp
+superpathway of acetate utilization and formation	acs // ackA // pta // eutD
+UMP biosynthesis I	carA // carB // pyrI // pyrB // pyrC // pyrE // pyrF // pyrD
+<i>trans, trans</i>-farnesyl diphosphate biosynthesis	ispA
+methylglyoxal degradation III	gpr // dkgB // dkgA // yeaE // yqhD // gldA
+coenzyme A biosynthesis I (bacteria)	coaD // coaE // dfp
+pyruvate fermentation to (<i>R</i>)-lactate	ldhA
+pyrimidine deoxyribonucleosides degradation	cdd // deoA // ppnP
+Rcs Signal Transduction System	rcsC // rcsB // rcsD
+L-proline biosynthesis I (from L-glutamate)	proC // proA // proB
+D-allose degradation	rpiB // alsE // alsK
+superpathway of L-asparagine biosynthesis	asnA // asnB
+L-asparagine biosynthesis II	asnA // asnB
+biotin biosynthesis I	bioH // fabF // fabB // fabI // fabZ // fabG // bioC // bioF // bidA // bioD // bioA // bioB // acpP // thiS // fdx
+L-asparagine degradation I	ansB // ansA // iaaA
+superpathway of L-tyrosine biosynthesis	aroB // aroG // aroH // aroF // aroC // aroA // aroL // aroK // aroE // aroD // tyrB // aspC // pheA // tyrA
+fructose degradation	fruK
+siroheme biosynthesis	cysG
+lipoate salvage I	lplA
+acetoacetate degradation (to acetyl CoA)	atoB // atoD // atoA // ydiF
+D-gulosides conversion to D-glucosides	ycjS // ycjR // ycjQ
+<i>S</i>-adenosyl-L-methionine salvage I	mtn // luxS // metH // metE // metK
+L-lysine degradation I	cadA // ldcC // patA // patD // sad // gabD // puuE // gabT // glaH // lhgD
+glutathionylspermidine biosynthesis	gss
+D-arabinose degradation II	fucI // fucK // fucA // aldA
+EvgSA Two-Component Signal Transduction System	evgA // evgS
+superpathway of guanine and guanosine salvage	gpt // hpt // deoD // xapA // ppnP // gsk
+lipid IV<sub>A</sub> biosynthesis (<i>E. coli</i>)	lpxB // lpxK // lpxH // lpxD // lpxC // lpxA // acpP
+pyrimidine nucleobases salvage II	codA // upp
+L-histidine biosynthesis	hisD // hisC // hisB // hisF // hisH // hisA // hisI // hisG
+4-hydroxybenzoate biosynthesis II (bacteria)	ubiC
+D-gluconate degradation	idnK // gntK
+RstBA Two-Component Signal Transduction System	rstA // rstB
+BtsSR Two-Component Signal Transduction System	btsR // btsS
+superoxide radicals degradation	sodA // sodB // sodC // katE // katG // adeD
+&beta;-alanine biosynthesis III	panD
+periplasmic disulfide bond formation	dsbB // dsbA
+superpathway of phenylethylamine degradation	tynA // feaB // paaH // paaB // paaC // paaA // paaE // paaJ // paaG // paaZ // paaK // paaF
+L-lactaldehyde degradation (aerobic)	aldA // lldD
+CDP-diacylglycerol biosynthesis I	cdsA // plsC // plsB // gpsA
+ppGpp metabolism	gpp // apaH // relA // spoT // ndk // adk
+superpathway of hexuronide and hexuronate degradation	uxaA // uxaB // uxuB // uxuA // kdgK // eda // uxaC // uidA
+colanic acid building blocks biosynthesis	gmd // fcl // kduI // pgi // manA // cpsG // cpsB // galU // pgm // galE // ugd
+UTP and CTP <i>de novo</i> biosynthesis	pyrH // ndk // adk // pyrG
+4-aminobenzoate biosynthesis I	pabA // pabB // pabC
+trehalose degradation II (cytosolic)	treF // glk
+NAD phosphorylation and dephosphorylation	nadK // pntA // pntB
+D-serine degradation	dsdA // glyA // ridA
+glycogen biosynthesis I (from ADP-D-Glucose)	glgA // glgB // glgC // pgm
+L-aspartate biosynthesis	aspC
+ethylene glycol degradation	aldA // fucO
+superpathway of heme <i>b</i> biosynthesis from uroporphyrinogen-III	hemN // hemE // hemH // hemF // hemG
+flavin biosynthesis I (bacteria and plants)	ribF // ribC // ribE // ybjI // yigB // ribB // ribD // ribA
+ethanolamine utilization	eutC // eutB // eutE // mhpF // pta // eutD // ackA // purT // adhE // adhP
+superpathway of pyrimidine deoxyribonucleosides degradation	cdd // deoA // ppnP // deoB // deoC // eutE // adhE // mhpF
+lipoate biosynthesis and incorporation II	lipA // lplA // fdx
+allantoin degradation to ureidoglycolate II (ammonia producing)	allB // allC // allE // allW
+<i>N</i>-acetylglucosamine degradation I	nagB // nagA
+spermidine biosynthesis I	speE // speD
+superpathway of L-aspartate and L-asparagine biosynthesis	aspC // asnA // asnB // ansB // ansA // iaaA // aspA
+prenylated FMNH<sub>2</sub> biosynthesis	nudF // nudJ // thiM // ubiX
+superpathway of L-arginine and L-ornithine degradation	adiA // speB // sad // gabD // speF // patD // patA // puuD // puuC // puuB // puuA
+tetrahydromonapterin biosynthesis	folM // folX // folE
+4-aminobutanoate degradation I	puuE // sad // puuC
+acyl carrier protein metabolism	acpH // acpS // acpT // acpP // entF // entB
+pyruvate fermentation to acetate IV	grcA // tdcE // pflB // ackA // pta // eutD
+two-component alkanesulfonate monooxygenase	ssuE // ssuD
+PyrSR Two-Component Signal Transduction System	pyrS // pyrR
+UDP-<i>N</i>-acetyl-&alpha;-D-mannosaminouronate biosynthesis	wecC
+adenosylcobinamide-GDP salvage from cobinamide I	cobU // btuR
+putrescine biosynthesis III	speC
+L-carnitine degradation I	caiA // caiB // caiC // caiD // caiT
+CpxAR Two-Component Signal Transduction System	cpxA // cpxR
+superpathway of adenosylcobalamin salvage from cobinamide I	cobS // cobC // cobT // cobU // btuR
+KdpDE Two-Component Signal Transduction System, potassium-dependent	kdpE // kdpD
+CreCB Two-Component Signal Transduction System	creB // creC
+adenosine nucleotides degradation II	deoD // xapA // ppnP // yfiH // add // xdhC // xdhB // xdhA // aphA // umpH // umpG // ushA // phoA
+L-lactaldehyde degradation (anaerobic)	fucO
+folate polyglutamylation	glyA // folC
+methylphosphonate degradation I	phnI // phnM // phnJ // phnP // phnN
+<i>cis</i>-vaccenate biosynthesis	tesA // fabF // fabB // fabG // fabZ // fabI // acpP
+pyruvate fermentation to ethanol I	grcA // tdcE // pflB // eutE // mhpF // adhE // adhP
+D-malate degradation	dmlA
+3-dehydroquinate biosynthesis I	aroB // aroG // aroH // aroF
+ZraSR Two-Component Signal Transduction System	zraR // zraS
+guanosine nucleotides degradation III	guaD // aphA // umpH // umpG // yrfG // xdhC // xdhB // xdhA // deoD // xapA // ppnP
+D-xylose degradation I	xylB // xylA
+aerotaxis signal transduction	cheY // cheA
+enterobacterial common antigen biosynthesis	rffM // wecF // wecA // wzxE // wzyE
+L-alanine biosynthesis II	alaA // alaC
+putrescine degradation I	patD // puuC // patA
+ArcAB Two-Component Signal Transduction System, quinone dependent	arcA // arcB
+superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	pdxK // pdxY // pdxI // pdxH // epd // dxs // pdxJ // pdxB // serC // pdxA
+(Kdo)<sub>2</sub>-lipid A biosynthesis (<i>E. coli</i>)	lpxL // lpxM // acpP
+Entner-Doudoroff shunt	eda // edd
+uracil degradation III	rutD // rutC // rutE // ydfG // rutB // rutA
+L-threonine degradation IV	ltaE // eutE // adhE // mhpF
+arginine dependent acid resistance	adiA
+superpathway of fatty acid biosynthesis initiation	fabD // accD // accA // fabF // fabB // fabH // acpP
+&beta;-D-glucuronide and D-glucuronate degradation	uxaC // uidA
+adenosine nucleotides degradation III	amn // ppnN
+D-mannose degradation I	manA // manX // manY // manZ
+L-rhamnose degradation I	rhaD // rhaB // rhaA // rhaM
+superpathway of sulfate assimilation and cysteine biosynthesis	cysH // cysI // cysJ // cysE // cysK // cysM // cysN // cysD // cysC // serC // serB // ydiJ // serA // trxC // trxA
+D-sorbitol degradation II	srlD
+superpathway of arginine and polyamine biosynthesis	cadA // ldcC // speE // speD // speC // speA // speB // argG // argH // argI // argF // carA // carB // argA // argB // argC // argD // gabT // argE
+L-selenocysteine biosynthesis I (bacteria)	selD // selA // serS // selC
+thioredoxin pathway	trxB // trxC // trxA
+adenosylcobalamin salvage from cobalamin	btuR
+<i>cis</i>-cyclopropane fatty acid (CFA) biosynthesis	cfa
+glycerol degradation I	glpK // glpD // glpC // glpB // glpA
+pyruvate to cytochrome <i>bd</i> oxidase electron transfer	poxB // cydH // cydX // cydB // cydA
+guanosine deoxyribonucleotides <i>de novo</i> biosynthesis II	nrdB // nrdA // nrdD // nrdF // nrdE // ndk // adk // trxC // trxA // nrdH
+glutathione biosynthesis	gshA // gshB
+putrescine degradation II	puuD // puuC // puuB // puuA
+adenosine deoxyribonucleotides <i>de novo</i> biosynthesis II	nrdB // nrdA // nrdF // nrdE // ndk // nrdD // trxC // trxA // nrdH
+NarX Two-Component Signal Transduction System, nitrate dependent	narP // narX // narL
+D-galactose degradation I (Leloir pathway)	pgm // galM // galE // galT // galK
+2-methylcitrate cycle I	acs // prpE // prpC // prpD // acnB // prpB
+superpathway of L-phenylalanine biosynthesis	aroB // aroG // aroH // aroF // aroC // aroA // aroL // aroK // aroE // aroD // tyrB // aspC // ilvE // pheA // tyrA
+ammonia assimilation cycle III	glnA // pyrG // guaA // hisF // hisH // gltB // gltD // pabA // pabB // trpD // trpE // asnB // carA // carB // glsB // glsA
+curcumin degradation	curA
+CMP phosphorylation	cmk // ndk // adk
+L-serine biosynthesis	serC // serB // ydiJ // serA
+molybdopterin biosynthesis	moaA // moaE // moaD // moeB // ynjE // moaC
+ubiquinol-8 biosynthesis (early decarboxylation)	ubiF // ubiE // ubiH // ubiG // ubiI // ubiD // ubiA
+guanine and guanosine salvage I	gpt // hpt // deoD // xapA // ppnP
+glutathione-glutaredoxin redox reactions	dsbA // grxC // nrdH // grxB // grxA
+<i>D</i>-glucarate degradation I	garL // garR // gudD // garK // glxK
+cinnamate and 3-hydroxycinnamate degradation to 2-hydroxypentadienoate	hcaE // hcaF // hcaD // hcaC // mhpB // mhpC // hcaB // mhpA
+superpathway of coenzyme A biosynthesis I (bacteria)	panC // panE // ilvC // panB // coaA // coaD // coaE // dfp // panD
+mannitol degradation I	mtlD
+succinate to cytochrome <i>bd</i> oxidase electron transfer	sdhD // sdhC // sdhB // sdhA // cydH // cydX // cydB // cydA
+NADH to dimethyl sulfoxide electron transfer	nuoI // nuoG // nuoF // nuoE // nuoC // nuoB // nuoN // nuoM // nuoL // nuoK // nuoJ // nuoH // nuoA // dmsC // dmsB // dmsA
+methylglyoxal degradation IV	aldA // lldD
+3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-hydroxypentadienoate	mhpC // mhpB // mhpA // hcaB // hcaE // hcaF // hcaD // hcaC
+citrate degradation	citE // citF // citD
+phosphopantothenate biosynthesis I	panC // panE // ilvC // panB // coaA
+pentose phosphate pathway (non-oxidative branch) I	talB // talA // tktA // tktB // rpe // rpiB // rpiA
+adenosylcobalamin biosynthesis from adenosylcobinamide-GDP I	cobS // cobC // cobT
+superpathway of L-lysine, L-threonine and L-methionine biosynthesis I	thrB // thrC // aspC // dapF // lysA // dapE // argD // serC // dapD // dapA // asd // lysC // dapB // metA // metE // metB // metH // metC // malY
+superpathway of purine nucleotides <i>de novo</i> biosynthesis II	purF // purD // purL // purM // purT // purC // purH // purE // purK // guaB // guaA // gmk // purA // purB // adk // nrdB // nrdA // nrdF // nrdE // ndk // nrdD // trxC // trxA // nrdH
+sulfate activation for sulfonation	cysN // cysD // cysC
+glycolate and glyoxylate degradation II	glcB // glcF // glcE // glcD
+tetrahydrofolate biosynthesis I	folP // folC // folA // folM
+trehalose biosynthesis I	otsA // phoA // otsB
+peptidoglycan maturation (<i>meso</i>-diaminopimelate containing)	ftsW // mrdB // mtgA // pbpC // dacB // ampH // yfeW // dacC // dacD // dacA // ldtE // mrdA // ftsI // mrcB // mrcA // mepH // mepS // ldtD
+thiosulfate disproportionation IV (rhodanese)	glpE // pspE // sseA // ygaP
+L-arginine degradation III (arginine decarboxylase/agmatinase pathway)	speA // adiA // speB
+N-end rule pathway I (prokaryotic)	aat // leuP // leuX // leuV // leuW // leuT // leuQ // leuZ // leuU
+polycistronic tRNA processing III	rne // rnpA // rnpB // rbn // rnd // rnt // rph
+pyridoxal 5'-phosphate salvage I	pdxH // pdxK // pdxY // pdxI
+superpathway of menaquinol-8 biosynthesis I	ispB // menE // menC // menF // menD // menH // menB // menI // ubiE // menA
+pyruvate to cytochrome <i>bo</i> oxidase electron transfer	poxB // cyoC // cyoB // cyoA // cyoD
+trehalose degradation I (low osmolarity)	treC // glk
+superpathway of glyoxylate bypass and TCA	aceB // aceA // maeA // mdh // fumC // fumB // fumA // fumD // fumE // sucC // sucD // lpd // sucB // sucA // icd // gltA // acnA // acnB // sdhD // sdhC // sdhB // sdhA // mqo
+putrescine biosynthesis I	speA // speB
+periplasmic disulfide bond reduction	trxA // dsbD
+superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis	mazG // dut // nudI // thyA // tmk // nrdF // nrdE // nrdB // nrdA // carA // carB // pyrI // pyrB // pyrC // pyrE // pyrF // pyrD // pyrH // ndk // adk // pyrG // trxC // trxA
+citrate lyase activation	citX // citG // citC // citE // citF // citD
+TorTSR Signal Transduction System, TMAO dependent	torR // torS
+glycogen degradation I	malQ // glgP // glgX // malZ // pgm // glk // malP
+8-amino-7-oxononanoate biosynthesis I	bioH // fabF // fabB // fabI // fabZ // fabG // bioC // bioF // acpP
+sulfoquinovose degradation I	yihT // yihU // yihV // yihS
+assimilatory sulfate reduction I	cysH // cysI // cysJ // cysN // cysD // cysC // trxC // trxA
+2-<I>O</I>-&alpha;-mannosyl-D-glycerate degradation	mngB // garK // glxK
+hydrogen to dimethyl sulfoxide electron transfer	dmsC // dmsB // dmsA // hybC // hybO // hybB // hybA
+cardiolipin biosynthesis III	pgsA // pgpA // pgpB // pgpC // clsC
+thiamine diphosphate biosynthesis I (E. coli)	thiL // thiE
+superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation	puuD // puuB // puuA // adiA // speB // sad // gabD // patD // puuC // patA
+phenylethylamine degradation I	tynA // feaB
+glycolysis I (from glucose 6-phosphate)	crr // ptsG // manX // manY // manZ // gpmA // yigL // yidA // hxpA // ybiV // fbp // glpX // ybhA // yggF // ppsA // kduI // pgi // pfkB // pfkA // fbaA // fbaB // tpiA // gapA // pgk // gpmM // eno // pykA // pykF
+superpathway of branched chain amino acid biosynthesis	leuB // dmlA // tyrB // leuA // leuD // leuC // ilvD // ilvE // ilvC // ilvH // ilvI // ilvM // ilvG // ilvA // ridA
+Superpathway of polycistronic tRNA processing (<i>E. coli</i>)	pcnB // rbn // rnd // rnt // rph // rnpA // rnpB // pnp // rnb
+proline to cytochrome <i>bo</i> oxidase electron transfer	putA // cyoC // cyoB // cyoA // cyoD
+pyruvate decarboxylation to acetyl CoA I	lpd // aceF // aceE
+L-asparagine biosynthesis I	asnB
+NAD salvage pathway IV (from nicotinamide riboside)	nadR
+conversion of succinate to propanoate	scpA // scpB // scpC
+fatty acid biosynthesis initiation II	fabF // fabB // fabH // acpP
+lipoprotein posttranslational modification (Gram-negative bacteria)	lgt // lnt // lspA // sppA // rseP // lolB // lolC // lolD // lolE // lolA
+pyrimidine ribonucleosides salvage II	cdd // rihC // rihA // rihB
+glycerol and glycerophosphodiester degradation	glpK // glpQ // ugpQ // glpD // glpC // glpB // glpA
+autoinducer AI-2 degradation	lsrF // lsrK // lsrG
+L-alanine biosynthesis I	ilvE // avtA
+NADH to cytochrome <i>bo</i> oxidase electron transfer II	ndh // cyoC // cyoB // cyoA // cyoD
